@@ -3790,7 +3790,8 @@ Herhangi bir resimdeki ilgi çekici bir nokta, artırılmış gerçeklik (AR) ar
     ]
   },
   "prompt_template": "Birinci şahıs bakış açısıyla çekilmiş fotorealistik bir görüntü üzerine bindirilmiş, fütüristik ve minimalist bir Artırılmış Gerçeklik (AR) arayüzü. Arayüz, [YÜKLENECEK GÖRSELDEKİ İLGİ ÇEKİCİ NOKTA]'yı parlak cyan rengi, yarı saydam bir çerçeve ile vurguluyor. Vurgulanan noktanın yanında, '[İLGİLİ BİLGİLER]' başlığını ve kısa açıklamasını içeren holografik bir bilgi kartı beliriyor. Genel atmosfer bilgilendirici ve teknolojik."
-}```
+}
+```
 
 -----
 
