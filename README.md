@@ -674,7 +674,8 @@ Klasik tarzda döşenmiş bir oturma odasının fotoğrafını, modern ve minima
 
 Bir modelin üzerindeki düz kırmızı elbiseyi, çiçek desenli mavi bir elbiseyle değiştirmek isteniyor. Kullanıcının orijinal model fotoğrafını yüklemesi gerekiyor.
 
-<img width="462" height="600" alt="12d61255-8f95-4ac0-a484-e16a46589557" src="https://github.com/user-attachments/assets/11cf026c-c146-43c0-8080-b3908fabb2e6" />  <img width="796" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/aa72e142-e486-4952-90a1-65524db6bd90" />
+<img width="552" height="350" alt="image" src="https://github.com/user-attachments/assets/7e9cda0e-32ff-43f2-9518-a9fe02ece8f0" />
+
 
 
 
