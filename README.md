@@ -12,7 +12,7 @@ I will regenerate the document for you with a table of contents at the beginning
 
 ### İçindekiler
 
-  * [1. Sosyal Medya İçerik Üretimi - Ürün Tanıtımı](https://www.google.com/search?q=%231-sosyal-medya-i%C3%A7erik-%C3%BCretimi---%C3%BCr%C3%BCn-tan%C4%B1t%C4%B1m%C4%B1)
+  * [1. Sosyal Medya İçerik Üretimi - Ürün Tanıtımı].
   * [2. Sosyal Medya İçerik Üretimi - Blog Pini](https://www.google.com/search?q=%232-sosyal-medya-i%C3%A7erik-%C3%BCretimi---blog-pini)
   * [3. Pazarlama ve Reklamcılık - Web Banner](https://www.google.com/search?q=%233-pazarlama-ve-reklamc%C4%B1l%C4%B1k---web-banner)
   * [4. E-ticaret ve Ürün Fotoğrafçılığı - Arka Plan Değişimi](https://www.google.com/search?q=%234-e-ticaret-ve-%C3%BCr%C3%BCn-foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1---arka-plan-de%C4%9Fi%C5%9Fimi)
