@@ -47,6 +47,5 @@ Nano-Banana-Best-200-Json-Prompt
   },
   "prompt_template": "[YÜKLENECEK MODEL DİYAGRAMI]'nı geliştirerek, onu daha anlaşılır ve bilgilendirici bir hale getir. Diyagramın her bir ana bileşenini, temiz çizgiler ve okunaklı '[ETİKET METNİ]' kullanarak adlandır. Sistem içindeki ana süreci veya akışı, yönü açıkça gösteren '[RENKLİ OKLAR]' ile görselleştir. Sonuç, karmaşık bir sistemi bir bakışta anlaşılır kılan, profesyonel bir teknik illüstrasyon olmalı."
 }
-<img width="812" height="804" alt="image" src="https://github.com/user-attachments/assets/7f0471ca-4b70-45f2-a3da-596e8b61874c" />
 
 }
