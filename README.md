@@ -375,6 +375,8 @@
 <a id="1"></a>
 **1. Sosyal Medya İçerik Üretimi - Ürün Tanıtımı**
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/e45e3b62-91a8-4b97-bfe1-7d11451fca1f" />
+
 Yeni bir el yapımı sabun markası için minimalist ve çekici bir Instagram gönderisi oluşturulması isteniyor. Kullanıcının el yapımı lavanta sabununun yüksek çözünürlüklü bir fotoğrafını referans olarak yüklemesi gerekiyor.
 
 ```json
