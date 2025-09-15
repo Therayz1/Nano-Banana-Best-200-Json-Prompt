@@ -774,6 +774,9 @@ Bir hamburger fotoğrafına, yeni pişmiş ve sıcak olduğunu gösteren bir buh
 
 Yaz mevsiminde çekilmiş bir orman fotoğrafını, sonbaharın canlı renklerine büründürmek isteniyor. Kullanıcının yaz mevsimi orman fotoğrafını yüklemesi gerekiyor.
 
+<img width="647" height="208" alt="image" src="https://github.com/user-attachments/assets/daf920e4-a800-49b7-8f1a-8fe6831db5f6" />
+
+
 ```json
 {
   "concept": "Bir manzara fotoğrafında mevsimsel ve atmosferik değişiklikler yapma.",
@@ -806,6 +809,9 @@ Yaz mevsiminde çekilmiş bir orman fotoğrafını, sonbaharın canlı renklerin
 **13. Bilim ve Teknoloji - Soyut Kavramı Görselleştirme**
 
 Kuantum dolanıklığı gibi karmaşık bir bilimsel kavramı, anlaşılır ve estetik bir görselle açıklamak isteniyor.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f73ee16-773d-4884-bce3-8b08e55036b5" />
+
 
 ```json
 {
@@ -840,6 +846,9 @@ Kuantum dolanıklığı gibi karmaşık bir bilimsel kavramı, anlaşılır ve e
 
 Bir video oyunu karakterinin zırhını, daha fütüristik ve hafif bir tasarımla güncellemek isteniyor. Kullanıcının orijinal karakter görselini Nano Banana'ya yüklemesi gerekiyor.
 
+<img width="729" height="189" alt="image" src="https://github.com/user-attachments/assets/9be2272d-46f3-43ac-8f33-5c74ab2efce7" />
+
+
 ```json
 {
   "concept": "Mevcut bir karakterin kıyafet veya ekipman tasarımını güncelleme.",
@@ -872,6 +881,9 @@ Bir video oyunu karakterinin zırhını, daha fütüristik ve hafif bir tasarım
 **15. Tipografi ve Metin Efektleri - Sanatsal Metin**
 
 Bir poster için "GELECEK" kelimesine fütüristik, metalik bir doku ve ışık efekti vermek isteniyor.
+
+<img width="518" height="251" alt="image" src="https://github.com/user-attachments/assets/68d6a0aa-71fa-4908-b377-18deab1f7eca" />
+
 
 ```json
 {
@@ -906,6 +918,9 @@ Bir poster için "GELECEK" kelimesine fütüristik, metalik bir doku ve ışık 
 
 "Rüya Yakalayıcı" konsepti için fantastik bir illüstrasyon oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/43f2960e-aade-4661-bd0f-f48fb6ed864f" />
+
+
 ```json
 {
   "concept": "Fantastik ve büyülü bir konsepti illüstrasyonla canlandırma.",
@@ -938,6 +953,9 @@ Bir poster için "GELECEK" kelimesine fütüristik, metalik bir doku ve ışık 
 **17. Portre ve İnsan Fotoğrafçılığı - Işıklandırma Değişimi**
 
 Bir stüdyo portresine dramatik, düşük anahtar (low-key) bir ışıklandırma efekti vermek isteniyor. Kullanıcının orijinal portre fotoğrafını yüklemesi gerekiyor.
+
+<img width="558" height="201" alt="image" src="https://github.com/user-attachments/assets/5de9de09-4a9c-4539-8fff-6aa613d081d1" />
+
 
 ```json
 {
@@ -972,6 +990,9 @@ Bir stüdyo portresine dramatik, düşük anahtar (low-key) bir ışıklandırma
 
 Yeni tasarlanmış bir akıllı saat prototipinin üç farklı renk varyasyonunu (siyah, gümüş, altın) görselleştirmek isteniyor. Kullanıcının akıllı saat prototipinin fotoğrafını yüklemesi gerekiyor.
 
+<img width="616" height="292" alt="image" src="https://github.com/user-attachments/assets/208f6717-4055-48c7-85ad-deb5de7aef23" />
+
+
 ```json
 {
   "concept": "Bir ürün prototipinin farklı renk ve doku varyasyonlarını görselleştirme.",
@@ -1004,6 +1025,10 @@ Yeni tasarlanmış bir akıllı saat prototipinin üç farklı renk varyasyonunu
 **19. Oyun Geliştirme - Arka Plan Görseli**
 
 Bir fantezi RPG oyunu için, büyülü bir orman tapınağının arka plan görselini oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/3c67f7e8-89bd-4b1a-977a-c4a03f4bfe79" />
+
+
 
 ```json
 {
@@ -1038,6 +1063,9 @@ Bir fantezi RPG oyunu için, büyülü bir orman tapınağının arka plan görs
 
 Kıyamet sonrası bir şehirde, yalnız bir kahramanın yürüdüğü dramatik bir film sahnesi için konsept görseli oluşturmak isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/7d4b8cae-e863-4fa0-9751-220974956bdc" />
+
+
 ```json
 {
   "concept": "Dramatik bir film sahnesi için sinematik bir konsept görseli oluşturma.",
@@ -1070,6 +1098,9 @@ Kıyamet sonrası bir şehirde, yalnız bir kahramanın yürüdüğü dramatik b
 **21. Eğitim Materyalleri - Açıklayıcı İllüstrasyon**
 
 İnsan dolaşım sistemini açıklayan bir ders kitabı için basit ve anlaşılır bir illüstrasyon oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/1e3995fd-db0c-40ad-aa88-a3ab9bf629dc" />
+
 
 ```json
 {
@@ -1104,6 +1135,9 @@ Kıyamet sonrası bir şehirde, yalnız bir kahramanın yürüdüğü dramatik b
 
 Okyanuslardaki plastik kirliliğine dikkat çekmek için etkileyici bir kampanya görseli oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/04de8c2d-3e09-48e2-9c5b-15ba777f882a" />
+
+
 ```json
 {
   "concept": "Çevresel bir soruna dikkat çekmek için duygusal ve düşündürücü bir kampanya görseli.",
@@ -1136,6 +1170,9 @@ Okyanuslardaki plastik kirliliğine dikkat çekmek için etkileyici bir kampanya
 **23. Müzik ve Ses Sanatları - Albüm Kapağı Tasarımı**
 
 Bir elektronik müzik sanatçısının yeni albümü için soyut ve fütüristik bir kapak görseli tasarlanması amaçlanıyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/54518818-1976-486c-9249-337419bda46c" />
+
 
 ```json
 {
@@ -1170,6 +1207,9 @@ Bir elektronik müzik sanatçısının yeni albümü için soyut ve fütüristik
 
 Bir maraton etkinliği için dinamik ve motive edici bir tanıtım görseli oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/ec9f6fbd-6754-4077-9104-9ec5a8c5a848" />
+
+
 ```json
 {
   "concept": "Bir spor etkinliğinin enerjisini ve motivasyonunu yansıtan bir görsel.",
@@ -1202,6 +1242,9 @@ Bir maraton etkinliği için dinamik ve motive edici bir tanıtım görseli olu�
 **25. Seyahat ve Turizm - Tanıtım Görseli**
 
 Kapadokya'nın balonlarla dolu eşsiz manzarasını tanıtan bir görsel oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/0484d4f8-aa53-4d95-af58-0143ffd7df84" />
+
 
 ```json
 {
@@ -1236,6 +1279,9 @@ Kapadokya'nın balonlarla dolu eşsiz manzarasını tanıtan bir görsel oluştu
 
 Uzak bir gezegende, kristal ormanların arasında gizlenmiş antik bir uzaylı tapınağını görselleştirmek isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/21d3d3f3-5b3b-406c-bc52-04967fdf138a" />
+
+
 ```json
 {
   "concept": "Fantastik veya bilim kurgu bir dünyadan detaylı ve sürükleyici bir sahne oluşturma.",
@@ -1268,6 +1314,9 @@ Uzak bir gezegende, kristal ormanların arasında gizlenmiş antik bir uzaylı t
 **27. Gıda ve İçecek Endüstrisi - İçecek Reklamı**
 
 Yeni bir limonata markası için ferahlatıcı bir reklam görseli oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/1e7b27e7-9747-475a-9f27-428d04230749" />
+
 
 ```json
 {
@@ -1302,6 +1351,9 @@ Yeni bir limonata markası için ferahlatıcı bir reklam görseli oluşturmak i
 
 Lüks bir elektrikli otomobilin, modern bir şehir manzarası önünde tanıtım görselini oluşturmak isteniyor.
 
+<img width="697" height="190" alt="image" src="https://github.com/user-attachments/assets/038ace9e-1aee-465a-9049-f472067ed7bd" />
+
+
 ```json
 {
   "concept": "Yeni bir araba modelinin dinamizmini ve lüksünü vurgulayan bir tanıtım görseli.",
@@ -1331,36 +1383,40 @@ Lüks bir elektrikli otomobilin, modern bir şehir manzarası önünde tanıtım
 -----
 
 <a id="29"></a>
-**29. Sağlık ve Wellness - Uygulama Tanıtımı**
 
-Meditasyon ve farkındalık uygulaması için huzurlu bir tanıtım görseli oluşturmak isteniyor.
+---
+**29. Derin Uyku ve Rüyalar (Sürreal ve Sanatsal Yaklaşım)**
+
+Bu versiyon, uygulamanın uyku kalitesini artırma özelliğine odaklanır ve bunu hayal gücüyle birleştirerek daha sanatsal ve dikkat çekici bir görsel sunar.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/3f678acf-6ece-441d-a4bc-6dfc13d9a6fc" />
+
 
 ```json
 {
-  "concept": "Bir sağlık uygulamasının huzur ve dinginlik temasını vurgulayan bir görsel.",
+  "concept": "Uygulamanın sağladığı derin ve dinlendirici uykuyu, sürreal ve büyülü bir rüya manzarası ile sembolize etme.",
   "style": {
-    "art_style": "Huzurlu fotoğrafçılık (Serene photography), sanatsal",
-    "color_palette": ["pastel yeşil", "bej", "açık mavi", "turuncu"],
-    "lighting": "Gün doğumu ışığı, yumuşak ve sıcak"
+    "art_style": "Sürreal dijital illüstrasyon (Surreal digital illustration), fantastik",
+    "color_palette": ["gece mavisi", "mor", "gümüş", "parlayan yıldız beyazı"],
+    "lighting": "Ay ışığı ve yıldızlardan gelen yumuşak, büyülü bir aydınlatma."
   },
   "composition": {
-    "main_subject": "Sakin bir göl kenarında meditasyon yapan bir figür",
-    "background": "Göl ve dağ manzarası",
-    "extra_elements": []
+    "main_subject": "Sakin bir şekilde uyuyan bir figürün silüeti.",
+    "background": "Figürün zihninden yayılan, yıldızlar, bulutsular (nebula) ve gezegenlerle dolu, devasa ve sakin bir gece gökyüzü.",
+    "extra_elements": ["parlayan takımyıldızları", "hafif bir sis veya bulut tabakası"]
   },
-  "mood": "Huzurlu, ilham verici, dingin",
+  "mood": "Rüya gibi, büyülü, sakin, dinlendirici",
   "camera_settings": {
-    "angle": "Geniş manzara açısı",
+    "angle": "Geniş açı, figürü ve gökyüzünü birleştiren epik bir görünüm.",
     "lens": "Geniş açı lens"
   },
   "adaptation_rules": {
-    "replaceable_elements": ["mekan (orman, nehir vb.)", "aktivite (yoga, yürüyüş vb.)", "renk paleti"],
-    "fixed_elements": ["huzurlu ve dingin atmosfer", "gün doğumu/batımı ışığı"]
+    "replaceable_elements": ["rüya teması (orman, okyanus altı vb.)", "renk paleti", "figürün pozisyonu"],
+    "fixed_elements": ["sürreal ve fantastik tarz", "uyku ve dinlenme teması", "büyülü atmosfer"]
   },
-  "prompt_template": "Create a peaceful and inspiring promotional visual for a meditation app, showing a figure meditating by a calm lake in the sunrise light, conveying a sense of serenity and inner peace."
+  "prompt_template": "Create a surreal and magical promotional visual for a sleep meditation app. The image shows the silhouette of a person sleeping peacefully, with a vast and beautiful galaxy filled with stars and nebulae emerging from their head, representing a deep and restorative dream state. Use a color palette of deep blues and purples with silver highlights."
 }
 ```
-
 -----
 
 <a id="30"></a>
@@ -1368,29 +1424,44 @@ Meditasyon ve farkındalık uygulaması için huzurlu bir tanıtım görseli olu
 
 El yapımı bir seramik vazonun, modern bir oturma odasında nasıl durduğunu gösteren bir görsel oluşturulması isteniyor.
 
+<img width="466" height="243" alt="image" src="https://github.com/user-attachments/assets/e14611af-0f23-4eb3-8fdf-6772a8142f89" />
+
+
 ```json
 {
-  "concept": "Bir ev dekorasyon ürününün gerçek bir yaşam ortamında kullanımını gösterme.",
+  "concept": "Yüklenen bir ürünün, fotorealistik bir şekilde modern bir iç mekana yerleştirilerek kullanım senaryosunun canlandırılması.",
   "style": {
-    "art_style": "İç mekan fotoğrafçılığı (Interior photography), minimalist",
-    "color_palette": ["mat siyah", "beyaz", "bej"],
-    "lighting": "Doğal ve yumuşak iç mekan ışığı"
+    "art_style": "Fotorealistik İç Mekan Fotoğrafçılığı (Photorealistic Interior Photography), Kompozisyon",
+    "color_palette": ["nötr tonlar", "beyaz", "bej", "ahşap tonları"],
+    "lighting": "Yumuşak, pencerelerden gelen doğal iç mekan ışığı"
   },
   "composition": {
-    "main_subject": "El yapımı, mat siyah seramik vazo",
-    "background": "Modern ve şık bir oturma odası",
-    "extra_elements": ["minimalist bir sehpa", "taze beyaz çiçekler"]
+    "main_subject": "[Yüklenecek Vazo]'nun fotoğrafı",
+    "background": "Modern ve şık bir oturma odası, minimalist bir sehpa.",
+    "extra_elements": [
+      "Vazonun içine yerleştirilmiş taze beyaz çiçekler",
+      "Vazonun sehpa üzerindeki gerçekçi gölgesi ve yansıması"
+    ]
   },
-  "mood": "Şık, modern, estetik",
+  "mood": "Şık, modern, estetik, davetkar",
   "camera_settings": {
     "angle": "Odayı ve ürünü gösteren bir açı",
     "lens": "35mm veya 50mm"
   },
   "adaptation_rules": {
-    "replaceable_elements": ["ürün türü (vazo, lamba vb.)", "renkleri", "mekan", "ekstra öğeler"],
-    "fixed_elements": ["minimalist ve modern estetik", "doğal ışıklandırma"]
+    "replaceable_elements": [
+      "yüklenecek ürün",
+      "iç mekan stili (endüstriyel, bohem vb.)",
+      "sehpa malzemesi",
+      "içine konulacak çiçek/bitki türü"
+    ],
+    "fixed_elements": [
+      "ürünün mekana gerçekçi entegrasyonu",
+      "doğal ışıklandırma",
+      "modern estetik"
+    ]
   },
-  "prompt_template": "Create a visual showing a handmade matte black ceramic vase displayed in a modern and stylish living room, placed on a minimalist coffee table with fresh white flowers, lit by natural light with a neutral color palette."
+  "prompt_template": "Take the uploaded photo of the [main_subject] and photorealistically place it on a minimalist coffee table within a modern and stylish living room. Ensure the vase's lighting, shadows, and perspective are perfectly consistent with the room's soft natural light. Aesthetically add fresh white flowers inside the vase. The final result should be a photorealistic interior photo that showcases how the product would look in a real home environment."
 }
 ```
 
