@@ -9,7 +9,7 @@
   * [5. Sanatsal ve Yaratıcı Projeler - Kitap Kapağı Tasarımı](https://www.google.com/search?q=%235-sanatsal-ve-yarat%C4%B1c%C4%B1-projeler---kitap-kapa%C4%9F%C4%B1-tasar%C4%B1m%C4%B1)
   * [6. Kişisel Kullanım ve Eğlence - Tatil Fotoğrafı Düzenlemesi](https://www.google.com/search?q=%236-ki%C5%9Fisel-kullan%C4%B1m-ve-e%C4%9Flence---tatil-foto%C4%9Fraf%C4%B1-d%C3%BCzenlemesi)
   * [7. Eğitim ve Sunumlar - İnfografik Öğesi](https://www.google.com/search?q=%237-e%C4%9Fitim-ve-sunumlar---infografik-%C3%B6%C4%9Fesi)
-  * [8. Web Sitesi ve Uygulama Tasarımı - Kahraman Görseli](#8-web-sitesi-ve-uygulama-tasarımı---kahraman-görseli)
+  * [8. Web Sitesi ve Uygulama Tasarımı - Kahraman Görseli](#8-web-sitesi-ve-uygulama-tasarimi---kahraman-gorseli)  
   * [9. Mimari ve İç Tasarım - İç Tasarım Değişimi](https://www.google.com/search?q=%239-mimari-ve-i%C3%A7-tasar%C4%B1m---i%C3%A7-tasar%C4%B1m-de%C4%9Fi%C5%9Fimi)
   * [10. Moda ve Giyim - Kıyafet Değişimi](https://www.google.com/search?q=%2310-moda-ve-giyim---k%C4%B1yafet-de%C4%9Fi%C5%9Fimi)
   * [11. Yemek ve İçecek - İştah Açıcı Görsel](https://www.google.com/search?q=%2311-yemek-ve-i%C3%A7ecek---i%C5%9Ftah-a%C3%A7%C4%B1c%C4%B1-g%C3%B6rsel)
