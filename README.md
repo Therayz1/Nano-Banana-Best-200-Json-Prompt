@@ -1818,7 +1818,8 @@ Vintage bir elektro gitarın, sahne ışıkları altında tanıtım görselini o
     "fixed_elements": ["müzik aleti tanıtımı formatı", "profesyonel ve dramatik atmosfer"]
   },
   "prompt_template": "Create an elegant and professional promotional visual of a vintage electric guitar, shining under spotlights in a dimly lit stage environment, with its wooden texture and metallic parts clearly visible."
-}```
+}
+```
 
 -----
 
@@ -1850,7 +1851,8 @@ Yeni bir proje yönetim yazılımının kullanıcı arayüzünü daha modern ve 
     "fixed_elements": ["düz tasarım prensipleri", "kullanıcı dostu estetik"]
   },
   "prompt_template": "Transform this project management software screenshot into a clean, minimalist, and user-friendly interface using flat design principles, with key features like task lists, calendar, and progress bars highlighted with colorful icons."
-}```
+}
+```
 
 -----
 
