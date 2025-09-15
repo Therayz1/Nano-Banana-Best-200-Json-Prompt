@@ -399,7 +399,7 @@ Sürdürülebilir enerji kaynakları hakkında bir sunum için, rüzgar enerjisi
 
 -----
 
-**8. Web Sitesi ve Uygulama Tasarımı - Kahraman Görseli**
+#8. Web Sitesi ve Uygulama Tasarımı - Kahraman Görseli**
 
 Bir yoga ve meditasyon stüdyosunun web sitesi için huzurlu bir kahraman görseli tasarlanması amaçlanıyor.
 
