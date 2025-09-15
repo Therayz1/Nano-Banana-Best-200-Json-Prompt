@@ -1,6 +1,4 @@
 ### EN ETKİLİ 200 NANO BANANA KULLANIM PROMPTU & ÖRNEĞİ - JSON PROMPT - ERAY COŞKUN
-
-### İçindekiler
 <hr>
 
 ***
