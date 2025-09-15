@@ -377,6 +377,9 @@
 
 Yeni bir el yapımı sabun markası için minimalist ve çekici bir Instagram gönderisi oluşturulması isteniyor. Kullanıcının el yapımı lavanta sabununun yüksek çözünürlüklü bir fotoğrafını referans olarak yüklemesi gerekiyor.
 
+<img width="652" height="233" alt="image" src="https://github.com/user-attachments/assets/bab58e8c-5f87-4f44-9e0e-1aeec212ccf2" />
+
+
 ```json
 {
   "concept": "Doğal ve el yapımı bir ürünün minimalist ve çekici tanıtımı.",
@@ -408,7 +411,10 @@ Yeni bir el yapımı sabun markası için minimalist ve çekici bir Instagram g�
 <a id="2"></a>
 **2. Sosyal Medya İçerik Üretimi - Blog Pini**
 
-"Evde Kendi Kahveni Demlemenin 10 Yolu" başlıklı bir blog yazısı için dikey bir Pinterest pini tasarlanması hedefleniyor.
+"Evde Kendi Kahveni Demlemenin 10 Yolu" başlıklı bir blog yazısı için bir Pinterest pini tasarlanması hedefleniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/69314bd9-573a-4e8e-9ef6-6cbf2f29f7ba" />
+
 
 ```json
 {
@@ -443,6 +449,9 @@ Yeni bir el yapımı sabun markası için minimalist ve çekici bir Instagram g�
 
 Bir teknoloji şirketinin yeni "Yaz İndirimleri" kampanyası için dinamik bir web banner'ı tasarlanması amaçlanıyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/35c15e29-2474-407a-91d1-9f851b1a33cc" />
+
+
 ```json
 {
   "concept": "Teknoloji ürünleri için modern ve dinamik bir kampanya görseli.",
@@ -475,6 +484,9 @@ Bir teknoloji şirketinin yeni "Yaz İndirimleri" kampanyası için dinamik bir 
 **4. E-ticaret ve Ürün Fotoğrafçılığı - Arka Plan Değişimi**
 
 Bir e-ticaret sitesinde satılan el yapımı bir kolyenin arka planının temizlenmesi isteniyor. Kullanıcının kolyenin orijinal fotoğrafını Nano Banana'ya yüklemesi gerekiyor.
+
+<img width="563" height="265" alt="image" src="https://github.com/user-attachments/assets/3eb3da8c-c817-4369-918b-771cadaf82f9" />
+
 
 ```json
 {
@@ -509,6 +521,9 @@ Bir e-ticaret sitesinde satılan el yapımı bir kolyenin arka planının temizl
 
 "Zamanın Ötesindeki Şehir" adlı bir bilim kurgu romanı için gizemli bir kitap kapağı oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/eaada06c-224b-4254-b96f-cb8b7bbfabc6" />
+
+
 ```json
 {
   "concept": "Bilim kurgu romanı için epik ve atmosferik bir kitap kapağı görseli.",
@@ -541,6 +556,9 @@ Bir e-ticaret sitesinde satılan el yapımı bir kolyenin arka planının temizl
 **6. Kişisel Kullanım ve Eğlence - Tatil Fotoğrafı Düzenlemesi**
 
 Gündüz çekilmiş bir plaj fotoğrafını, romantik bir gün batımı manzarasına dönüştürmek isteniyor. Kullanıcının orijinal tatil fotoğrafını Nano Banana'ya yüklemesi gerekiyor.
+
+<img width="764" height="179" alt="image" src="https://github.com/user-attachments/assets/f3f6bb61-edab-4fa4-a665-5a758bea2c59" />
+
 
 ```json
 {
@@ -575,6 +593,9 @@ Gündüz çekilmiş bir plaj fotoğrafını, romantik bir gün batımı manzaras
 
 Sürdürülebilir enerji kaynakları hakkında bir sunum için, rüzgar enerjisinin nasıl çalıştığını gösteren basit bir infografik öğesi oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/e46ccd40-be36-4e43-ba82-317897e92659" />
+
+
 ```json
 {
   "concept": "Karmaşık bir süreci veya kavramı basit ve anlaşılır bir infografik ile açıklama.",
@@ -608,6 +629,9 @@ Sürdürülebilir enerji kaynakları hakkında bir sunum için, rüzgar enerjisi
 
 Bir yoga ve meditasyon stüdyosunun web sitesi için huzurlu bir kahraman görseli tasarlanması amaçlanıyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/49f5298d-c51a-4d75-a081-144444ce1dc1" />
+
+
 ```json
 {
   "concept": "Huzur ve dinginliği yansıtan bir web sitesi kahraman görseli.",
@@ -640,6 +664,9 @@ Bir yoga ve meditasyon stüdyosunun web sitesi için huzurlu bir kahraman görse
 **9. Mimari ve İç Tasarım - İç Tasarım Değişimi**
 
 Klasik tarzda döşenmiş bir oturma odasının fotoğrafını, modern ve minimalist bir tarza dönüştürmek isteniyor. Kullanıcının orijinal oturma odası fotoğrafını Nano Banana'ya yüklemesi gerekiyor.
+
+<img width="763" height="209" alt="image" src="https://github.com/user-attachments/assets/60f77dc2-81e5-4190-9958-07d3756125bb" />
+
 
 ```json
 {
