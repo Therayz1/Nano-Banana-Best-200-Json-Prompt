@@ -765,7 +765,8 @@ Yaz mevsiminde çekilmiş bir orman fotoğrafını, sonbaharın canlı renklerin
     "fixed_elements": ["manzara fotoğrafçılığı tarzı", "gerçekçi görünüm"]
   },
   "prompt_template": "Transform the summer greenery in this forest photo into autumn leaves with bright tones of red, orange, and gold, and add fallen leaves on the ground and a light fog effect."
-}```
+}
+```
 
 -----
 
@@ -995,7 +996,8 @@ Bir fantezi RPG oyunu için, büyülü bir orman tapınağının arka plan görs
     "fixed_elements": ["oyun arka planı konsepti", "detaylı ve gerçekçi tarz"]
   },
   "prompt_template": "Create a detailed background visual for a fantasy RPG game, showing a magical and mysterious forest temple surrounded by ancient ruins, with sunbeams filtering through the trees, in a {art_style} style with a color palette of {color_palette}."
-}```
+}
+```
 
 -----
 
@@ -1357,7 +1359,8 @@ El yapımı bir seramik vazonun, modern bir oturma odasında nasıl durduğunu g
     "fixed_elements": ["minimalist ve modern estetik", "doğal ışıklandırma"]
   },
   "prompt_template": "Create a visual showing a handmade matte black ceramic vase displayed in a modern and stylish living room, placed on a minimalist coffee table with fresh white flowers, lit by natural light with a neutral color palette."
-}```
+}
+```
 
 -----
 
