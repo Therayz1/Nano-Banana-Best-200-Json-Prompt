@@ -375,8 +375,6 @@
 <a id="1"></a>
 **1. Sosyal Medya İçerik Üretimi - Ürün Tanıtımı**
 
-<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/e45e3b62-91a8-4b97-bfe1-7d11451fca1f" />
-
 Yeni bir el yapımı sabun markası için minimalist ve çekici bir Instagram gönderisi oluşturulması isteniyor. Kullanıcının el yapımı lavanta sabununun yüksek çözünürlüklü bir fotoğrafını referans olarak yüklemesi gerekiyor.
 
 ```json
@@ -676,6 +674,10 @@ Klasik tarzda döşenmiş bir oturma odasının fotoğrafını, modern ve minima
 
 Bir modelin üzerindeki düz kırmızı elbiseyi, çiçek desenli mavi bir elbiseyle değiştirmek isteniyor. Kullanıcının orijinal model fotoğrafını yüklemesi gerekiyor.
 
+<img width="462" height="600" alt="12d61255-8f95-4ac0-a484-e16a46589557" src="https://github.com/user-attachments/assets/11cf026c-c146-43c0-8080-b3908fabb2e6" />  <img width="796" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/aa72e142-e486-4952-90a1-65524db6bd90" />
+
+
+
 ```json
 {
   "concept": "Mevcut bir modelin üzerindeki kıyafetin rengini ve desenini değiştirme.",
@@ -706,6 +708,8 @@ Bir modelin üzerindeki düz kırmızı elbiseyi, çiçek desenli mavi bir elbis
 
 <a id="11"></a>
 **11. Yemek ve İçecek - İştah Açıcı Görsel**
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/e45e3b62-91a8-4b97-bfe1-7d11451fca1f" />
 
 Bir hamburger fotoğrafına, yeni pişmiş ve sıcak olduğunu gösteren bir buhar efekti eklemek isteniyor. Kullanıcının orijinal hamburger fotoğrafını yüklemesi gerekiyor.
 
