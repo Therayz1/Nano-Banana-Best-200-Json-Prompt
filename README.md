@@ -1824,7 +1824,7 @@ Bir kedinin fotoğrafına süper kahraman kostümü ve komik bir arka plan eklem
   "prompt_template": "Create a futuristic and sustainable city skyline visual of Istanbul in the year 2050, filled with vertical farms, green roofs, and electric air taxis, with a modernized version of the Bosphorus Bridge and integrated clean energy sources."
 }
 ```
-
+-----
 -----
 
 <a id="41"></a>
@@ -1873,7 +1873,7 @@ Yeni bir cilt bakım serumunun lüks ve etkili olduğunu vurgulayan bir reklam g
   "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a high-resolution, photorealistic luxury advertisement. Place the product elegantly on a smooth, glowing skin surface, with a glistening serum drop carefully positioned to highlight its effectiveness. Ensure the lighting is soft, diffused, and bright, emphasizing the product's luxurious details and the skin's radiance. The background should be blurred and minimalist, maintaining a sophisticated aesthetic. The camera should capture an ultra close-up view with a shallow depth of field, making the product and serum sharp while the background is softly out of focus."
 }
 ```
-
+-----
 -----
 
 <a id="42"></a>
