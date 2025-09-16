@@ -1837,41 +1837,42 @@ Yeni bir cilt bakım serumunun lüks ve etkili olduğunu vurgulayan bir reklam g
 
 ```json
 {
-  "concept": "Yüklenen bir kozmetik ürününün lüks ve etkili yönünü vurgulayan, yüksek çözünürlüklü bir reklam görseli.",
-  "style": {
-    "art_style": "Fotorealistik Lüks Ürün Fotoğrafçılığı (Photorealistic Luxury Product Photography), Minimalist",
-    "color_palette": ["altın sarısı", "beyaz", "bej", "ürünle uyumlu parlak tonlar"],
-    "lighting": "Yumuşak, dağınık ve parlak stüdyo ışığı, ürünün parlaklığını ve dokusunu vurgulayan."
-  },
-  "composition": {
-    "main_subject": "[Yüklenecek Ürün]'ün fotoğrafı",
-    "background": "Pürüzsüz ve ışıltılı bir cilt yüzeyi (modelin eli veya yüzünün bir kısmı olabilir), ürünün üzerine nazikçe düşen bir damla serum efekti.",
-    "extra_elements": [
-      "Bulanık, yumuşak ve minimalist bir arka plan.",
-      "Ürünün lüks ve etkili olduğunu ima eden ince yansımalar ve parıltılar."
-    ]
-  },
-  "mood": "Lüks, çekici, ışıltılı, sofistike, etkili",
-  "camera_settings": {
-    "angle": "Makro veya ultra yakın çekim (ultra close-up), ürünün ve serum damlasının detaylarını gösteren.",
-    "lens": "Makro lens, sığ alan derinliği ile ürün ve serumu net, arka planı bulanık hale getiren."
-  },
-  "adaptation_rules": {
-    "replaceable_elements": [
-      "yüklenecek ürün",
-      "serum damlası veya krem dokusu",
-      "cilt tipi veya tonu",
-      "arka plan öğeleri"
-    ],
-    "fixed_elements": [
-      "ürünün lüks ve etkili bir şekilde sunulması",
-      "fotorealistik kalite",
-      "yumuşak ve parlak ışıklandırma",
-      "makro/ultra yakın çekim estetiği"
-    ]
-  },
-  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a high-resolution, photorealistic luxury advertisement. Place the product elegantly on a smooth, glowing skin surface, with a glistening serum drop carefully positioned to highlight its effectiveness. Ensure the lighting is soft, diffused, and bright, emphasizing the product's luxurious details and the skin's radiance. The background should be blurred and minimalist, maintaining a sophisticated aesthetic. The camera should capture an ultra close-up view with a shallow depth of field, making the product and serum sharp while the background is softly out of focus."
+  "concept": "Yüklenen bir kozmetik ürününün lüks ve etkili yönünü vurgulayan, yüksek çözünürlüklü bir reklam görseli.",
+  "style": {
+    "art_style": "Fotorealistik Lüks Ürün Fotoğrafçılığı (Photorealistic Luxury Product Photography), Minimalist",
+    "color_palette": ["altın sarısı", "beyaz", "bej", "ürünle uyumlu parlak tonlar"],
+    "lighting": "Yumuşak, dağınık ve parlak stüdyo ışığı; ürünün parlaklığını ve dokusunu vurgulayan"
+  },
+  "composition": {
+    "main_subject": "Yüklenecek ürünün fotoğrafı",
+    "background": "Pürüzsüz ve ışıltılı bir cilt yüzeyi (modelin eli veya yüzünün bir kısmı olabilir), ürünün üzerine nazikçe düşen bir damla serum efekti",
+    "extra_elements": [
+      "Bulanık, yumuşak ve minimalist bir arka plan",
+      "Ürünün lüks ve etkili olduğunu ima eden ince yansımalar ve parıltılar"
+    ]
+  },
+  "mood": "Lüks, çekici, ışıltılı, sofistike, etkili",
+  "camera_settings": {
+    "angle": "Makro veya ultra yakın çekim (ultra close-up), ürünün ve serum damlasının detaylarını gösteren",
+    "lens": "Makro lens, sığ alan derinliği ile ürün ve serumu net, arka planı bulanık hale getiren"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": [
+      "yüklenecek ürün",
+      "serum damlası veya krem dokusu",
+      "cilt tipi veya tonu",
+      "arka plan öğeleri"
+    ],
+    "fixed_elements": [
+      "ürünün lüks ve etkili bir şekilde sunulması",
+      "fotorealistik kalite",
+      "yumuşak ve parlak ışıklandırma",
+      "makro/ultra yakın çekim estetiği"
+    ]
+  },
+  "prompt_template": "Take the uploaded photo of the main subject and transform it into a high-resolution, photorealistic luxury advertisement. Place the product elegantly on a smooth, glowing skin surface, with a glistening serum drop carefully positioned to highlight its effectiveness. Ensure the lighting is soft, diffused, and bright, emphasizing the product's luxurious details and the skin's radiance. The background should be blurred and minimalist, maintaining a sophisticated aesthetic. The camera should capture an ultra close-up view with a shallow depth of field, making the product and serum sharp while the background is softly out of focus."
 }
+
 ```
 -----
 -----
