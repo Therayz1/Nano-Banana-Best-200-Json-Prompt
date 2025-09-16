@@ -1472,6 +1472,9 @@ El yapımı bir seramik vazonun, modern bir oturma odasında nasıl durduğunu g
 
 Bir yatırım danışmanlığı hizmeti için güven verici bir tanıtım görseli oluşturmak isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/0ef11bec-2647-4b81-8289-6ab7c69258d9" />
+
+
 ```json
 {
   "concept": "Bir finansal hizmetin güven, başarı ve profesyonellik hissini yansıtan bir görseli.",
@@ -1504,6 +1507,9 @@ Bir yatırım danışmanlığı hizmeti için güven verici bir tanıtım görse
 **32. Hukuk ve Danışmanlık - Web Sitesi Görseli**
 
 Bir hukuk bürosunun web sitesi için güvenilirlik ve uzmanlığı yansıtan bir görsel oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/90424ff0-6012-490d-bd1f-b00ee011645b" />
+
 
 ```json
 {
@@ -1538,6 +1544,9 @@ Bir hukuk bürosunun web sitesi için güvenilirlik ve uzmanlığı yansıtan bi
 
 "Yapay Zekanın Geleceği" konulu bir dergi makalesi için çarpıcı bir kapak görseli oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/383f0cd2-d662-4dca-b891-6010774c69b4" />
+
+
 ```json
 {
   "concept": "Bir makale için düşündürücü ve fütüristik bir kapak görseli.",
@@ -1570,6 +1579,9 @@ Bir hukuk bürosunun web sitesi için güvenilirlik ve uzmanlığı yansıtan bi
 **34. Çevre ve Sürdürülebilirlik - Kampanya Görseli**
 
 Yenilenebilir enerji kullanımını teşvik eden bir kampanya için umut verici bir görsel oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/74e50777-5d54-41f4-adf1-6141991ee724" />
+
 
 ```json
 {
@@ -1604,6 +1616,9 @@ Yenilenebilir enerji kullanımını teşvik eden bir kampanya için umut verici 
 
 Genetik mühendisliği alanındaki yeni bir keşfi özetleyen bir bilimsel makale için görsel oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/f1ab923e-e18f-4aa6-8266-fdd5db50d3a1" />
+
+
 ```json
 {
   "concept": "Bir bilimsel keşfi minimalist ve bilgilendirici bir görselle özetleme.",
@@ -1636,6 +1651,9 @@ Genetik mühendisliği alanındaki yeni bir keşfi özetleyen bir bilimsel makal
 **36. Tarih ve Kültür - Tarihi Olayı Görselleştirme**
 
 Antik Roma dönemindeki bir gladyatör dövüşünü canlandıran bir görsel oluşturulması isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/308bb801-b714-4592-b28d-c147178497c6" />
+
 
 ```json
 {
@@ -1670,6 +1688,9 @@ Antik Roma dönemindeki bir gladyatör dövüşünü canlandıran bir görsel ol
 
 Yeni keşfedilen bir ötegezegenin, yaşanabilir bir atmosferi olduğunu gösteren bir görsel oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/c2ed165a-9eb0-4fe3-8363-b17aeb6502fd" />
+
+
 ```json
 {
   "concept": "Bir gezegenin veya uzay olayının gerçekçi ve nefes kesici bir görselini yaratma.",
@@ -1702,6 +1723,9 @@ Yeni keşfedilen bir ötegezegenin, yaşanabilir bir atmosferi olduğunu göster
 **38. Hayvanlar ve Evcil Hayvanlar - Eğlenceli Efekt**
 
 Bir kedinin fotoğrafına süper kahraman kostümü ve komik bir arka plan eklemek isteniyor. Kullanıcının kedi fotoğrafını yüklemesi gerekiyor.
+
+<img width="710" height="198" alt="image" src="https://github.com/user-attachments/assets/cbcb6424-d16b-4d97-b16b-a0ce4ac6d951" />
+
 
 ```json
 {
@@ -1736,6 +1760,9 @@ Bir kedinin fotoğrafına süper kahraman kostümü ve komik bir arka plan eklem
 
 "Uçan Balon Macerası" adlı bir çocuk kitabı için illüstrasyon oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/88dcdbb6-74fe-4074-8247-0b21073926a7" />
+
+
 ```json
 {
   "concept": "Bir çocuk kitabı için neşeli ve renkli bir illüstrasyon.",
@@ -1768,6 +1795,9 @@ Bir kedinin fotoğrafına süper kahraman kostümü ve komik bir arka plan eklem
 **40. Mimarlık ve Şehir Planlama - Fütüristik Şehir Görseli**
 
 İstanbul'un 2050 yılındaki fütüristik ve sürdürülebilir bir versiyonunu görselleştirmek isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/200964b6-2632-4531-bd3b-0008a7bdaa6c" />
+
 
 ```json
 {
@@ -1802,29 +1832,45 @@ Bir kedinin fotoğrafına süper kahraman kostümü ve komik bir arka plan eklem
 
 Yeni bir cilt bakım serumunun lüks ve etkili olduğunu vurgulayan bir reklam görseli oluşturmak isteniyor.
 
+<img width="456" height="332" alt="image" src="https://github.com/user-attachments/assets/9107a424-71ce-4f47-bebe-5e3260b61a1c" />
+
+
 ```json
 {
-  "concept": "Bir kozmetik ürününün lüks ve etkili yönünü vurgulayan bir reklam görseli.",
-  "style": {
-    "art_style": "Lüks ürün fotoğrafçılığı (Luxury product photography), minimalist",
-    "color_palette": ["altın sarısı", "beyaz", "bej"],
-    "lighting": "Yumuşak, dağınık ve parlak ışık"
-  },
-  "composition": {
-    "main_subject": "Parlak, altın renkli bir serum damlası ve damlalık",
-    "background": "Pürüzsüz ve ışıltılı bir cilt",
-    "extra_elements": ["bulanık, yumuşak bir arka plan"]
-  },
-  "mood": "Lüks, çekici, ışıltılı",
-  "camera_settings": {
-    "angle": "Makro veya ultra yakın çekim (ultra close-up)",
-    "lens": "Makro lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["ürün türü (krem, şampuan vb.)", "rengi", "ekstra öğeler"],
-    "fixed_elements": ["lüks ve minimalist estetik", "yumuşak ışıklandırma", "makro çekim"]
-  },
-  "prompt_template": "Create a luxurious and appealing advertisement visual for a new skincare serum, showing a shiny, golden serum drop being applied with a dropper, gliding on smooth and glowing skin, with a blurred soft light and a minimalist aesthetic in the background."
+  "concept": "Yüklenen bir kozmetik ürününün lüks ve etkili yönünü vurgulayan, yüksek çözünürlüklü bir reklam görseli.",
+  "style": {
+    "art_style": "Fotorealistik Lüks Ürün Fotoğrafçılığı (Photorealistic Luxury Product Photography), Minimalist",
+    "color_palette": ["altın sarısı", "beyaz", "bej", "ürünle uyumlu parlak tonlar"],
+    "lighting": "Yumuşak, dağınık ve parlak stüdyo ışığı, ürünün parlaklığını ve dokusunu vurgulayan."
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek Ürün]'ün fotoğrafı",
+    "background": "Pürüzsüz ve ışıltılı bir cilt yüzeyi (modelin eli veya yüzünün bir kısmı olabilir), ürünün üzerine nazikçe düşen bir damla serum efekti.",
+    "extra_elements": [
+      "Bulanık, yumuşak ve minimalist bir arka plan.",
+      "Ürünün lüks ve etkili olduğunu ima eden ince yansımalar ve parıltılar."
+    ]
+  },
+  "mood": "Lüks, çekici, ışıltılı, sofistike, etkili",
+  "camera_settings": {
+    "angle": "Makro veya ultra yakın çekim (ultra close-up), ürünün ve serum damlasının detaylarını gösteren.",
+    "lens": "Makro lens, sığ alan derinliği ile ürün ve serumu net, arka planı bulanık hale getiren."
+  },
+  "adaptation_rules": {
+    "replaceable_elements": [
+      "yüklenecek ürün",
+      "serum damlası veya krem dokusu",
+      "cilt tipi veya tonu",
+      "arka plan öğeleri"
+    ],
+    "fixed_elements": [
+      "ürünün lüks ve etkili bir şekilde sunulması",
+      "fotorealistik kalite",
+      "yumuşak ve parlak ışıklandırma",
+      "makro/ultra yakın çekim estetiği"
+    ]
+  },
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a high-resolution, photorealistic luxury advertisement. Place the product elegantly on a smooth, glowing skin surface, with a glistening serum drop carefully positioned to highlight its effectiveness. Ensure the lighting is soft, diffused, and bright, emphasizing the product's luxurious details and the skin's radiance. The background should be blurred and minimalist, maintaining a sophisticated aesthetic. The camera should capture an ultra close-up view with a shallow depth of field, making the product and serum sharp while the background is softly out of focus."
 }
 ```
 
@@ -1835,29 +1881,46 @@ Yeni bir cilt bakım serumunun lüks ve etkili olduğunu vurgulayan bir reklam g
 
 Lüks bir butik otelin deniz manzaralı süit odasının tanıtım görselini oluşturmak isteniyor.
 
+<img width="624" height="177" alt="image" src="https://github.com/user-attachments/assets/06927d81-7b01-4879-a216-5a60f8771883" />
+
+
 ```json
 {
-  "concept": "Bir otel odasının veya tesisinin lüks ve konforlu atmosferini yansıtan bir görsel.",
-  "style": {
-    "art_style": "İç mekan fotoğrafçılığı (Interior photography), lüks, modern",
-    "color_palette": ["nötr tonlar", "beyaz", "bej"],
-    "lighting": "Geniş pencerelerden gelen doğal ışık"
-  },
-  "composition": {
-    "main_subject": "Lüks bir butik otelin deniz manzaralı süit odası",
-    "background": "Deniz manzarası",
-    "extra_elements": ["minimalist mobilyalar", "yumuşak tekstiller"]
-  },
-  "mood": "Konforlu, modern, sakin, lüks",
-  "camera_settings": {
-    "angle": "Odanın genişliğini gösteren açı",
-    "lens": "Geniş açı lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["oda türü", "mekan (orman, şehir vb.)", "iç tasarım stili", "renk paleti"],
-    "fixed_elements": ["lüks ve konforlu atmosfer", "doğal ışıklandırma"]
-  },
-  "prompt_template": "Create a modern and comfortable promotional visual for a luxury boutique hotel's sea-view suite room, filled with natural light streaming through large windows, featuring minimalist furniture, soft textiles, and a serene atmosphere."
+  "concept": "Yüklenen otel fotoğrafını kullanarak, lüks ve konforlu bir otel odasının atmosferini yansıtan bir görsel oluşturma.",
+  "style": {
+    "art_style": "Fotorealistik İç Mekan Fotoğrafçılığı (Photorealistic Interior Photography), Lüks, Modern",
+    "color_palette": ["nötr tonlar", "beyaz", "bej", "ahşap tonları", "deniz mavisinin ince dokunuşları"],
+    "lighting": "Geniş pencerelerden gelen doğal gün ışığı, odayı aydınlatan ve sıcak bir atmosfer yaratan."
+  },
+  "composition": {
+    "main_subject": "Yüklenecek ürün fotoğrafı, (örneğin yatak başı, bir koltuk veya aksesuar olarak düşünülebilir)",
+    "background": "Lüks bir butik otelin deniz manzaralı süit odası. Geniş pencerelerden görünen sakin bir deniz manzarası.",
+    "extra_elements": [
+      "Minimalist ve modern tasarıma sahip mobilyalar (örneğin, zarif bir yatak, rahat bir okuma koltuğu, şık bir sehpa).",
+      "Yumuşak ve davetkar tekstiller (örneğin, kaliteli nevresimler, peluş yastıklar, dekoratif battaniyeler).",
+      "Odaya yerleştirilmiş ürünle uyumlu, sakin ve zarif dekoratif öğeler."
+    ]
+  },
+  "mood": "Konforlu, modern, sakin, lüks, davetkar, dinlendirici",
+  "camera_settings": {
+    "angle": "Odanın genişliğini ve ürünün mekan içindeki yerini en iyi şekilde gösteren geniş açılı bir bakış açısı.",
+    "lens": "Geniş açı lens, iç mekanın ferahlığını ve lüksünü vurgulayan."
+  },
+  "adaptation_rules": {
+    "replaceable_elements": [
+      "yüklenecek ürünün türü ve konumu",
+      "iç mekanın spesifik detayları (mobilya stilleri, duvar renkleri)",
+      "deniz manzarası yerine başka bir manzara (şehir, orman vb.)",
+      "ışıklandırma zamanı (gün batımı, şafak vakti vb.)"
+    ],
+    "fixed_elements": [
+      "lüks ve konforlu otel odası atmosferi",
+      "doğal ve bol ışıklandırma",
+      "fotorealistik kalite",
+      "ürünün mekana organik entegrasyonu"
+    ]
+  },
+  "prompt_template": "Integrate the uploaded product photo seamlessly into a photorealistic image of a luxurious and modern sea-view suite in a boutique hotel. The room should be bathed in natural light streaming through large windows, showcasing a serene sea view. Furnish the room with minimalist furniture and soft, inviting textiles. Ensure the product is elegantly placed to enhance the room's overall sense of comfort and luxury. The image should convey a tranquil, sophisticated, and inviting atmosphere, capturing the essence of a high-end hotel experience."
 }
 ```
 
@@ -1868,29 +1931,46 @@ Lüks bir butik otelin deniz manzaralı süit odasının tanıtım görselini ol
 
 El yapımı bir deri cüzdanın detaylarını vurgulayan bir görsel oluşturmak isteniyor.
 
+<img width="521" height="373" alt="image" src="https://github.com/user-attachments/assets/3031b9c0-804f-4465-a874-fc23ad14ca12" />
+
+
 ```json
 {
-  "concept": "El yapımı bir ürünün detaylarını ve dokusunu vurgulayan bir görsel.",
+  "concept": "Yüklenen ürün fotoğrafını kullanarak, el yapımı bir deri cüzdanın detaylarını ve dokusunu vurgulayan fotorealistik bir görsel oluşturma.",
   "style": {
-    "art_style": "Gerçekçi fotoğrafçılık (Photorealistic photography), rustik",
-    "color_palette": ["kahverengi", "bej", "siyah"],
-    "lighting": "Hafif, yan ışık (side lighting)"
+    "art_style": "Fotorealistik Ürün Fotoğrafçılığı (Photorealistic Product Photography), Rustik, El Yapımı",
+    "color_palette": ["kahverengi tonları", "bej", "siyah", "derinin doğal renkleri"],
+    "lighting": "Hafif, yan ışık (side lighting), cüzdanın dokusunu, dikişlerini ve derinin karakterini derinlikli bir şekilde ortaya çıkaran."
   },
   "composition": {
-    "main_subject": "El yapımı, kahverengi deri bir cüzdan",
-    "background": "Rustik bir ahşap masa",
-    "extra_elements": ["dikiş detayları", "doğal doku"]
+    "main_subject": "[Yüklenecek Cüzdan]'ın fotoğrafı",
+    "background": "Rustik bir ahşap masa yüzeyi, hafifçe dokulu ve doğal görünümde.",
+    "extra_elements": [
+      "Cüzdanın el yapımı dikiş detayları ve derinin doğal dokusu ön planda ve keskin olmalı.",
+      "Masanın üzerinde, cüzdanın otantikliğini vurgulayacak şekilde, dağınık bir şekilde duran eski anahtarlar veya bir kalem gibi küçük, rustik öğeler eklenebilir (isteğe bağlı).",
+      "Cüzdanın gölgesi, ışıklandırmaya uygun olarak gerçekçi bir şekilde yansıtılmalı."
+    ]
   },
-  "mood": "Otantik, kaliteli, el yapımı",
+  "mood": "Otantik, kaliteli, el yapımı, doğal, sıcak",
   "camera_settings": {
-    "angle": "Yakın çekim (close-up), detayları vurgulayan",
-    "lens": "Makro lens"
+    "angle": "Yakın çekim (close-up), cüzdanın ön yüzünü veya hafif açılı bir şekilde detaylarını en iyi gösteren bir kompozisyon.",
+    "lens": "Makro lens, cüzdanın en küçük detaylarını bile net bir şekilde yakalayan sığ alan derinliğiyle."
   },
   "adaptation_rules": {
-    "replaceable_elements": ["ürün türü (cüzdan, defter vb.)", "malzemesi", "arka plan"],
-    "fixed_elements": ["el yapımı vurgusu", "doku ve detaylara odaklanma", "yakın çekim"]
+    "replaceable_elements": [
+      "yüklenecek cüzdanın kendisi",
+      "arka planın ahşap türü veya deseni",
+      "eklenen küçük rustik öğeler",
+      "ışığın geliş açısı (yan, üst vb.)"
+    ],
+    "fixed_elements": [
+      "el yapımı vurgusu",
+      "deri dokusunun ve dikiş detaylarının önemi",
+      "fotorealistik kalite",
+      "makro/yakın çekim estetiği"
+    ]
   },
-  "prompt_template": "Create an aesthetic and detailed close-up visual of a handmade brown leather wallet, highlighting its stitching details and natural texture, placed on a rustic wooden table and illuminated by soft side light."
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a photorealistic, detailed close-up visual. Place the handmade brown leather wallet on a rustic wooden table. Ensure the soft side lighting dramatically highlights its intricate stitching details and the rich, natural texture of the leather. The focus should be sharp on the wallet, making every handcrafted element stand out, with a shallow depth of field to create a sense of authenticity and quality."
 }
 ```
 
@@ -1901,29 +1981,46 @@ El yapımı bir deri cüzdanın detaylarını vurgulayan bir görsel oluşturmak
 
 Vintage bir elektro gitarın, sahne ışıkları altında tanıtım görselini oluşturmak isteniyor.
 
+<img width="627" height="297" alt="image" src="https://github.com/user-attachments/assets/162884ac-8529-4422-b495-205234da437c" />
+
+
 ```json
 {
-  "concept": "Bir müzik aletinin estetiğini ve profesyonel cazibesini yansıtan bir görsel.",
+  "concept": "Yüklenen gitar fotoğrafını kullanarak, bir müzik aletinin estetiğini ve profesyonel cazibesini yansıtan bir görsel oluşturma.",
   "style": {
-    "art_style": "Stüdyo fotoğrafçılığı (Studio photography), dramatik",
-    "color_palette": ["siyah", "kahverengi", "gri", "beyaz"],
-    "lighting": "Spot ışıkları, loş sahne aydınlatması"
+    "art_style": "Fotorealistik Stüdyo Fotoğrafçılığı (Photorealistic Studio Photography), Dramatik",
+    "color_palette": ["siyah", "kahverengi tonları", "gri", "beyaz", "gitarın kendi renkleri"],
+    "lighting": "Spot ışıkları ve loş sahne aydınlatması, gitarın parlaklığını, ahşap dokusunu ve metal aksamlarını dramatik bir şekilde vurgulayan."
   },
   "composition": {
-    "main_subject": "Vintage bir elektro gitar",
-    "background": "Loş bir sahne ortamı",
-    "extra_elements": ["parlayan spot ışıkları", "ahşap dokusu", "metal aksamlar"]
+    "main_subject": "[Yüklenecek Gitar]'ın fotoğrafı",
+    "background": "Loş ışıklı, minimalist bir sahne ortamı, gitarı ön plana çıkaran.",
+    "extra_elements": [
+      "Gitarın yüzeyindeki parlaklıklar ve yansımalar, spot ışıklarının etkisini gösterecek şekilde olmalı.",
+      "Ahşap dokusu ve metal aksamlar gibi detaylar, net ve keskin bir şekilde görünmeli.",
+      "Arka planda hafifçe bulanık kalabalık veya sahne ekipmanları gibi ince detaylar, sahne atmosferini güçlendirebilir (isteğe bağlı)."
+    ]
   },
-  "mood": "Profesyonel, zarif, dramatik",
+  "mood": "Profesyonel, zarif, dramatik, tutkulu",
   "camera_settings": {
-    "angle": "Ön veya hafif yandan, enstrümanı vurgulayan",
-    "lens": "50mm veya 85mm"
+    "angle": "Ön veya hafif yandan, gitarın genel estetiğini ve önemli detaylarını en iyi gösteren bir açı.",
+    "lens": "50mm veya 85mm lens, sığ alan derinliğiyle gitarı keskin, arka planı ise hafif bulanık hale getiren."
   },
   "adaptation_rules": {
-    "replaceable_elements": ["enstrüman türü", "tarzı (akustik, klasik)", "ışıklandırma"],
-    "fixed_elements": ["müzik aleti tanıtımı formatı", "profesyonel ve dramatik atmosfer"]
+    "replaceable_elements": [
+      "yüklenecek gitarın türü (elektro, akustik, bas vb.)",
+      "gitarın rengi ve modeli",
+      "sahne ortamının detayları",
+      "ışıklandırma rengi veya yoğunluğu"
+    ],
+    "fixed_elements": [
+      "müzik aleti tanıtımı formatı",
+      "profesyonel ve dramatik atmosfer",
+      "fotorealistik kalite",
+      "detaylara odaklanma"
+    ]
   },
-  "prompt_template": "Create an elegant and professional promotional visual of a vintage electric guitar, shining under spotlights in a dimly lit stage environment, with its wooden texture and metallic parts clearly visible."
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into an elegant and professional promotional visual. Place the guitar on a dimly lit stage environment, highlighted by dramatic spotlights. Ensure the lighting beautifully emphasizes the guitar's wooden texture, metallic parts, and glossy finish, creating a captivating and professional aesthetic. The background should be softly blurred to keep the focus entirely on the instrument, conveying a sense of artistic passion and high quality."
 }
 ```
 
@@ -1933,6 +2030,9 @@ Vintage bir elektro gitarın, sahne ışıkları altında tanıtım görselini o
 **45. Bilgisayar ve Yazılım - Yazılım Arayüzü**
 
 Yeni bir proje yönetim yazılımının kullanıcı arayüzünü daha modern ve çekici hale getirmek isteniyor. Kullanıcının orijinal arayüz ekran görüntüsünü yüklemesi gerekiyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/596ba5c5-5c3f-408d-b92d-9a1d2e3e4205" />
+
 
 ```json
 {
@@ -1967,6 +2067,9 @@ Yeni bir proje yönetim yazılımının kullanıcı arayüzünü daha modern ve 
 
 Modern ve işbirlikçi bir ortak çalışma alanının görselini oluşturmak isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/216fd453-c481-4e29-976d-56212c8815ad" />
+
+
 ```json
 {
   "concept": "İşbirliğini ve verimliliği yansıtan modern bir ofis ortamı görseli.",
@@ -1999,6 +2102,9 @@ Modern ve işbirlikçi bir ortak çalışma alanının görselini oluşturmak is
 **47. Güvenlik ve Koruma - Ürün Tanıtımı**
 
 Bir ev güvenlik sisteminin güvenilirliğini vurgulayan bir tanıtım görseli oluşturulması hedefleniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/0fad5b47-f740-472f-975e-8c43e1378e77" />
+
 
 ```json
 {
@@ -2033,6 +2139,9 @@ Bir ev güvenlik sisteminin güvenilirliğini vurgulayan bir tanıtım görseli 
 
 Organik bir domates tarlasının, hasat zamanı canlı ve doğal bir görselini oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/43f49737-7603-448b-ac99-e96c4587ead1" />
+
+
 ```json
 {
   "concept": "Bir tarım ürününün doğallığını ve tazeliğini vurgulayan bir görsel.",
@@ -2065,6 +2174,9 @@ Organik bir domates tarlasının, hasat zamanı canlı ve doğal bir görselini 
 **49. Enerji ve Altyapı - Proje Görseli**
 
 Bir hidroelektrik santralinin, çevreyle uyumlu ve modern bir görselini oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/b8ae0fb2-03ad-432e-8473-1cefc5b9df2f" />
+
 
 ```json
 {
@@ -2099,29 +2211,34 @@ Bir hidroelektrik santralinin, çevreyle uyumlu ve modern bir görselini oluştu
 
 Yeni bir ağrı kesici ilacın, hızlı etki ve rahatlama sağladığını vurgulayan bir tanıtım görseli oluşturulması hedefleniyor.
 
+<img width="668" height="180" alt="image" src="https://github.com/user-attachments/assets/8c42447c-925b-4bf9-aa8a-17147cf93b70" />
+
+
 ```json
 {
-  "concept": "Bir medikal ürünün etkinliğini ve güvenilirliğini sembolize eden bir görsel.",
-  "style": {
-    "art_style": "Bilimsel illüstrasyon (Scientific illustration), soyut",
-    "color_palette": ["mavi", "beyaz", "gri"],
-    "lighting": "Temiz ve parlak ışıklandırma"
-  },
-  "composition": {
-    "main_subject": "Huzurlu bir insan figürü",
-    "background": "İlacın moleküler yapısını stilize eden soyut bir arka plan",
-    "extra_elements": []
-  },
-  "mood": "Güvenilir, bilimsel, rahatlama hissi veren",
-  "camera_settings": {
-    "angle": "Sembolik ve açıklayıcı bir perspektif",
-    "lens": "Genel amaçlı lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["ürün türü (şurup, vitamin vb.)", "renk paleti", "semboller"],
-    "fixed_elements": ["bilimsel ve güvenilir atmosfer", "rahatlama hissi"]
-  },
-  "prompt_template": "Create a trustworthy and scientific promotional visual for a new painkiller, showing a calm human figure relieved from pain, with a stylized representation of the drug's molecular structure in the background, conveying a sense of relief and healing."
+  "concept": "Yüklenen bir ağrı kesici görselini kullanarak, ürünün etkinliğini ve güvenilirliğini sembolize eden yeni bir görsel oluşturma.",
+  "style": {
+    "art_style": "Bilimsel illüstrasyon (Scientific illustration), soyut",
+    "color_palette": ["mavi", "beyaz", "gri"],
+    "lighting": "Temiz ve parlak ışıklandırma"
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek Ağrı Kesici]'nin fotoğrafı",
+    "background": "İlacın moleküler yapısını stilize eden soyut bir arka plan",
+    "extra_elements": [
+      "Ürünün arkasında ağrının azaldığını simgeleyen rahatlamış bir insan silüeti (isteğe bağlı)."
+    ]
+  },
+  "mood": "Güvenilir, bilimsel, rahatlama hissi veren",
+  "camera_settings": {
+    "angle": "Sembolik ve açıklayıcı bir perspektif",
+    "lens": "Genel amaçlı lens"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": ["yüklenecek ürün görseli", "renk paleti", "arka plan detayları"],
+    "fixed_elements": ["bilimsel ve güvenilir atmosfer", "rahatlama hissi"]
+  },
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a trustworthy and scientific promotional visual. Place the painkiller against a stylized representation of the drug's molecular structure in the background. The overall visual should use clean and bright lighting to convey a sense of relief, healing, and scientific reliability."
 }
 ```
 
@@ -2132,29 +2249,36 @@ Yeni bir ağrı kesici ilacın, hızlı etki ve rahatlama sağladığını vurgu
 
 Yeni açılan bir tema parkının, aileler için eğlenceli ve heyecan verici olduğunu gösteren bir tanıtım görseli oluşturulması isteniyor.
 
+<img width="673" height="201" alt="image" src="https://github.com/user-attachments/assets/ffdd9532-6711-4cb5-a356-71a16a027d32" />
+
+
+
 ```json
 {
-  "concept": "Bir eğlence parkının neşesini ve heyecanını yansıtan bir görsel.",
-  "style": {
-    "art_style": "Canlı fotoğrafçılık (Vibrant photography), dinamik",
-    "color_palette": ["canlı renkler", "mavi", "kırmızı"],
-    "lighting": "Parlak ve net gün ışığı"
-  },
-  "composition": {
-    "main_subject": "Roller coaster'lar, dönme dolaplar ve mutlu aileler",
-    "background": "Tema parkı manzarası",
-    "extra_elements": ["dinamik kompozisyon", "hareket bulanıklığı"]
-  },
-  "mood": "Neşeli, heyecan verici, macera dolu",
-  "camera_settings": {
-    "angle": "Parkın genelini gösteren geniş açı",
-    "lens": "Geniş açı lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["park adı", "eğlence araçları", "atmosfer (gece/gündüz)", "renk paleti"],
-    "fixed_elements": ["dinamik kompozisyon", "neşeli ve heyecan verici his"]
-  },
-  "prompt_template": "Create a colorful and exciting promotional visual for a new theme park, showing roller coasters, Ferris wheels, and happy families having fun, with a dynamic composition that conveys a sense of joy and adventure."
+  "concept": "Yüklenen bir eğlence parkı görselini kullanarak, parkın neşesini ve heyecanını yansıtan bir görsel oluşturma.",
+  "style": {
+    "art_style": "Canlı fotoğrafçılık (Vibrant photography), dinamik",
+    "color_palette": ["canlı renkler", "mavi", "kırmızı"],
+    "lighting": "Parlak ve net gün ışığı"
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek Park Fotoğrafı]",
+    "background": "Tema parkı manzarası",
+    "extra_elements": [
+      "Roller coaster'lar, dönme dolaplar ve mutlu aileler gibi unsurların vurgulanması,",
+      "Dinamik kompozisyon ve hareket bulanıklığı efekti (isteğe bağlı)."
+    ]
+  },
+  "mood": "Neşeli, heyecan verici, macera dolu",
+  "camera_settings": {
+    "angle": "Parkın genelini gösteren geniş açı",
+    "lens": "Geniş açı lens"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": ["yüklenecek park görseli", "eğlence araçları", "atmosfer (gece/gündüz)", "renk paleti"],
+    "fixed_elements": ["dinamik kompozisyon", "neşeli ve heyecan verici his"]
+  },
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a colorful and exciting promotional visual for a theme park. Emphasize elements like roller coasters, Ferris wheels, and happy families having fun. The visual should have a dynamic composition and bright, clear daylight to convey a sense of joy and adventure."
 }
 ```
 
@@ -2165,29 +2289,34 @@ Yeni açılan bir tema parkının, aileler için eğlenceli ve heyecan verici ol
 
 Elmas bir yüzüğün, parlaklığını ve kesim detaylarını vurgulayan makro bir fotoğrafını oluşturmak isteniyor. Kullanıcının takı fotoğrafını yüklemesi gerekiyor.
 
+<img width="625" height="228" alt="image" src="https://github.com/user-attachments/assets/4049a3fb-e2ce-4d97-ac7e-a35d6255b41c" />
+
+
 ```json
 {
-  "concept": "Bir takı ürününün detaylarını, parlaklığını ve kalitesini vurgulayan bir görsel.",
-  "style": {
-    "art_style": "Takı fotoğrafçılığı (Jewelry photography), makro",
-    "color_palette": ["elmas parıltısı", "siyah", "gümüş"],
-    "lighting": "Yumuşak spot ışığı"
-  },
-  "composition": {
-    "main_subject": "Elmas bir yüzük",
-    "background": "Siyah kadife bir zemin",
-    "extra_elements": ["ışık yansımaları", "kesim detayları"]
-  },
-  "mood": "Lüks, zarif, estetik",
-  "camera_settings": {
-    "angle": "Ultra yakın çekim (macro shot)",
-    "lens": "Makro lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["takı türü", "malzeme (altın, gümüş vb.)", "ışıklandırma", "arka plan"],
-    "fixed_elements": ["detaylara odaklanma", "makro çekim", "estetik görünüm"]
-  },
-  "prompt_template": "Create an aesthetic and ultra-close-up macro shot visual of a diamond ring, highlighting its sparkle and cut details under a soft spotlight, placed on a black velvet surface."
+  "concept": "Yüklenen bir elmas yüzük görselini kullanarak, ürünün detaylarını, parlaklığını ve kalitesini vurgulayan bir görsel oluşturma.",
+  "style": {
+    "art_style": "Takı fotoğrafçılığı (Jewelry photography), makro",
+    "color_palette": ["elmas parıltısı", "siyah", "gümüş"],
+    "lighting": "Yumuşak spot ışığı"
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek Elmas Yüzük Fotoğrafı]",
+    "background": "Siyah kadife bir zemin",
+    "extra_elements": [
+      "Yüzüğün yüzeyindeki ışık yansımaları ve kesim detaylarının belirginleştirilmesi."
+    ]
+  },
+  "mood": "Lüks, zarif, estetik",
+  "camera_settings": {
+    "angle": "Ultra yakın çekim (macro shot)",
+    "lens": "Makro lens"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": ["yüklenecek yüzük görseli", "malzeme (altın, gümüş vb.)", "ışıklandırma", "arka plan"],
+    "fixed_elements": ["detaylara odaklanma", "makro çekim", "estetik görünüm"]
+  },
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into an aesthetic and ultra-close-up macro shot visual. Highlight its sparkle and cut details under a soft spotlight, placed on a black velvet surface, to emphasize its luxury, elegance, and quality."
 }
 ```
 
@@ -2198,29 +2327,34 @@ Elmas bir yüzüğün, parlaklığını ve kesim detaylarını vurgulayan makro 
 
 Yeni bir köpek maması markasının, sağlıklı ve lezzetli olduğunu vurgulayan bir reklam görseli oluşturmak isteniyor.
 
+<img width="563" height="281" alt="image" src="https://github.com/user-attachments/assets/3e42883d-5a1a-48fc-a480-a4e24c8b1f02" />
+
+
 ```json
 {
-  "concept": "Bir evcil hayvan ürününün faydalarını ve cazibesini yansıtan bir reklam görseli.",
-  "style": {
-    "art_style": "Yemek ve evcil hayvan fotoğrafçılığı (Food and pet photography), sevimli",
-    "color_palette": ["canlı renkler", "doğal tonlar"],
-    "lighting": "Doğal güneş ışığı"
-  },
-  "composition": {
-    "main_subject": "Mutlu ve enerjik bir golden retriever",
-    "background": "Doğal bir bahçe ortamı",
-    "extra_elements": ["bir kase mama"]
-  },
-  "mood": "Sağlıklı, sevimli, çekici, iştah açıcı",
-  "camera_settings": {
-    "angle": "Orta açı, hayvanı vurgulayan",
-    "lens": "50mm veya 85mm"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["hayvan türü", "ürün (mama, oyuncak vb.)", "mekan"],
-    "fixed_elements": ["ürünün faydalarını vurgulayan atmosfer", "sevimli ve çekici tarz"]
-  },
-  "prompt_template": "Create a cute and appealing advertisement visual for a new dog food brand, showing a happy and energetic golden retriever eagerly eating a bowl of food, with a natural garden setting and sunlight in the background."
+  "concept": "Yüklenen bir köpek maması markası ve mama görselini kullanarak, ürünün faydalarını ve evcil hayvanlar için cazibesini yansıtan bir reklam görseli oluşturma.",
+  "style": {
+    "art_style": "Yemek ve evcil hayvan fotoğrafçılığı (Food and pet photography), sevimli",
+    "color_palette": ["canlı renkler", "doğal tonlar"],
+    "lighting": "Doğal güneş ışığı"
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek Köpek Maması Markası ve Mama Görseli]",
+    "background": "Doğal bir bahçe ortamı",
+    "extra_elements": [
+      "Mutlu ve enerjik bir evcil hayvan (örn: golden retriever) mamayı iştahla yerken."
+    ]
+  },
+  "mood": "Sağlıklı, sevimli, çekici, iştah açıcı",
+  "camera_settings": {
+    "angle": "Orta açı, ürün ve hayvanı vurgulayan",
+    "lens": "50mm veya 85mm"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": ["yüklenecek ürün görseli", "hayvan türü", "mekan"],
+    "fixed_elements": ["ürünün faydalarını vurgulayan atmosfer", "sevimli ve çekici tarz"]
+  },
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a cute and appealing advertisement visual for the dog food brand. Show a happy and energetic pet (e.g., a golden retriever) eagerly eating the food, set in a natural garden environment with bright sunlight. The overall visual should convey a sense of health, attractiveness, and appetite."
 }
 ```
 
@@ -2231,29 +2365,35 @@ Yeni bir köpek maması markasının, sağlıklı ve lezzetli olduğunu vurgulay
 
 Yeni bir koşu ayakkabısının, hafifliğini ve performansını vurgulayan bir tanıtım görseli oluşturmak isteniyor.
 
+<img width="599" height="295" alt="image" src="https://github.com/user-attachments/assets/ace879ab-87a6-4d24-a3d4-f9ab4bdc2148" />
+
+
 ```json
 {
-  "concept": "Bir spor ekipmanının özelliklerini ve performansını vurgulayan bir görsel.",
-  "style": {
-    "art_style": "Dinamik ürün fotoğrafçılığı (Dynamic product photography)",
-    "color_palette": ["neon yeşil", "siyah", "gri", "beyaz"],
-    "lighting": "Parlak ve net ışıklandırma"
-  },
-  "composition": {
-    "main_subject": "Koşu ayakkabısı",
-    "background": "Dinamik bir koşu parkuru",
-    "extra_elements": ["havada asılı durma efekti", "aerodinamik tasarım"]
-  },
-  "mood": "Dinamik, hafif, yüksek performans",
-  "camera_settings": {
-    "angle": "Hafif düşük açı, ayakkabıyı vurgulayan",
-    "lens": "Geniş açı veya 50mm"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["ekipman türü (bisiklet, top vb.)", "rengi", "mekan"],
-    "fixed_elements": ["dinamizm ve performans vurgusu", "hareket hissi"]
-  },
-  "prompt_template": "Create a promotional visual for a new running shoe, highlighting its lightness and performance, with the shoe appearing to be suspended in mid-air on a dynamic running track, emphasizing its neon green details and aerodynamic design."
+  "concept": "Yüklenen bir spor ayakkabı ve marka görselini kullanarak, ürünün özelliklerini ve performansını vurgulayan dinamik bir görsel oluşturma.",
+  "style": {
+    "art_style": "Dinamik ürün fotoğrafçılığı (Dynamic product photography)",
+    "color_palette": ["neon yeşil", "siyah", "gri", "beyaz"],
+    "lighting": "Parlak ve net ışıklandırma"
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek Ayakkabı ve Marka Fotoğrafı]",
+    "background": "Dinamik bir koşu parkuru",
+    "extra_elements": [
+      "Ayakkabının havada asılı durma efektiyle sergilenmesi,",
+      "Aerodinamik tasarımının ve marka logosunun vurgulanması."
+    ]
+  },
+  "mood": "Dinamik, hafif, yüksek performans",
+  "camera_settings": {
+    "angle": "Hafif düşük açı, ayakkabıyı vurgulayan",
+    "lens": "Geniş açı veya 50mm"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": ["yüklenecek ayakkabı görseli", "rengi", "mekan"],
+    "fixed_elements": ["dinamizm ve performans vurgusu", "hareket hissi"]
+  },
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a dynamic promotional visual. Place the running shoe on a dynamic running track, making it appear suspended in mid-air to highlight its lightness and performance. Emphasize the shoe's specific details, color, and aerodynamic design, ensuring the brand is visible."
 }
 ```
 
@@ -2263,6 +2403,9 @@ Yeni bir koşu ayakkabısının, hafifliğini ve performansını vurgulayan bir 
 **55. Kitap ve Kırtasiye - Ürün Tanıtımı**
 
 El yapımı bir defterin, yaratıcılığı teşvik eden bir ortamda tanıtım görselini oluşturmak isteniyor.
+
+<img width="594" height="295" alt="image" src="https://github.com/user-attachments/assets/37e96398-ca25-454a-bbc5-ad10b4ca98a5" />
+
 
 ```json
 {
@@ -2297,6 +2440,9 @@ El yapımı bir defterin, yaratıcılığı teşvik eden bir ortamda tanıtım g
 
 Bir rock grubunun, enerjik ve karizmatik bir tanıtım fotoğrafını oluşturmak isteniyor. Kullanıcının müzik grubu fotoğrafını yüklemesi gerekiyor.
 
+<img width="650" height="204" alt="image" src="https://github.com/user-attachments/assets/5126dea8-69c0-44df-b8a2-80b707d3b54c" />
+
+
 ```json
 {
   "concept": "Bir müzik grubunun enerjisini ve ruhunu yansıtan bir tanıtım görseli.",
@@ -2320,7 +2466,8 @@ Bir rock grubunun, enerjik ve karizmatik bir tanıtım fotoğrafını oluşturma
     "fixed_elements": ["enerjik ve dramatik atmosfer", "müzik ruhunu yansıtma"]
   },
   "prompt_template": "Create an energetic and charismatic promotional photo of a rock band posing with their instruments under stage lights, using dark tones and dramatic lighting to reflect the dynamism and spirit of rock music."
-}```
+}
+```
 
 -----
 
@@ -2328,6 +2475,9 @@ Bir rock grubunun, enerjik ve karizmatik bir tanıtım fotoğrafını oluşturma
 **57. Bilimsel Deneyler - Deney Görseli**
 
 Bir kimya deneyinin, renkli reaksiyonları ve laboratuvar ortamını gösteren bir görselini oluşturmak isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/a801ee5b-7e4e-4c84-a5a2-60fa2df14d8f" />
+
 
 ```json
 {
@@ -2362,6 +2512,9 @@ Bir kimya deneyinin, renkli reaksiyonları ve laboratuvar ortamını gösteren b
 
 İnsanların yörüngede lüks bir uzay otelinde konakladığını gösteren bir görsel oluşturulması isteniyor.
 
+<img width="631" height="219" alt="image" src="https://github.com/user-attachments/assets/ac70d174-4d93-49af-a263-77391580c3b7" />
+
+
 ```json
 {
   "concept": "Geleceğin seyahat konseptini, lüks ve etkileyici bir şekilde görselleştirme.",
@@ -2395,29 +2548,35 @@ Bir kimya deneyinin, renkli reaksiyonları ve laboratuvar ortamını gösteren b
 
 İnsansı bir robotun, insanlarla etkileşimde bulunduğu bir görsel oluşturulması isteniyor.
 
+<img width="565" height="238" alt="image" src="https://github.com/user-attachments/assets/a905b8be-2216-4871-a9a0-265b0fc4f98a" />
+
+
 ```json
 {
-  "concept": "Yapay zeka ve insanlık arasındaki uyumu ve etkileşimi görselleştirme.",
-  "style": {
-    "art_style": "Gerçekçi illüstrasyon (Realistic illustration), teknolojik",
-    "color_palette": ["beyaz", "gri", "mavi", "insan teni tonları"],
-    "lighting": "Doğal ve yumuşak iç mekan ışığı"
-  },
-  "composition": {
-    "main_subject": "İnsansı, dost canlısı bir robot",
-    "background": "Modern bir ev ortamı",
-    "extra_elements": ["hafif bir gülümseme", "gözlerde nazik bir parıltı"]
-  },
-  "mood": "Dost canlısı, teknolojik, uyumlu",
-  "camera_settings": {
-    "angle": "Orta yakın çekim, etkileşimi gösteren",
-    "lens": "50mm"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["robot tasarımı", "mekan", "etkileşim türü (oyun, sohbet vb.)", "renk paleti"],
-    "fixed_elements": ["insanlık ve teknoloji uyumu", "gerçekçi ve dost canlısı tarz"]
-  },
-  "prompt_template": "Create a visual of a friendly humanoid robot naturally interacting with people in a modern home environment, with a slight smile on its face and a gentle glow in its eyes, emphasizing the harmony between technology and humanity."
+  "concept": "Yüklenen insan fotoğraflarını kullanarak, yapay zeka ve insanlık arasındaki uyumu ve etkileşimi, insansı bir robotla konuşma şeklinde görselleştirme.",
+  "style": {
+    "art_style": "Gerçekçi illüstrasyon (Realistic illustration), teknolojik",
+    "color_palette": ["beyaz", "gri", "mavi", "insan teni tonları"],
+    "lighting": "Doğal ve yumuşak iç mekan ışığı"
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek İnsan Fotoğrafları] insansı, dost canlısı bir robotla konuşurken",
+    "background": "Modern bir ev ortamı",
+    "extra_elements": [
+      "Robotun hafif bir gülümsemesi ve gözlerinde nazik bir parıltı (isteğe bağlı).",
+      "İnsanlar ve robot arasındaki doğal etkileşim."
+    ]
+  },
+  "mood": "Dost canlısı, teknolojik, uyumlu",
+  "camera_settings": {
+    "angle": "Orta yakın çekim, etkileşimi gösteren",
+    "lens": "50mm"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": ["yüklenecek insan görselleri", "robot tasarımı", "mekan", "etkileşim türü (oyun, sohbet vb.)", "renk paleti"],
+    "fixed_elements": ["insanlık ve teknoloji uyumu", "gerçekçi ve dost canlısı tarz"]
+  },
+  "prompt_template": "Take the uploaded photos of [main_subject] and transform them into a visual where the individuals are naturally interacting and conversing with a friendly humanoid robot in a modern home environment. The robot should have a slight smile on its face and a gentle glow in its eyes, emphasizing the harmony and positive interaction between technology and humanity."
 }
 ```
 
@@ -2427,6 +2586,9 @@ Bir kimya deneyinin, renkli reaksiyonları ve laboratuvar ortamını gösteren b
 **60. Sanal Gerçeklik ve Artırılmış Gerçeklik - Deneyim Görseli**
 
 Bir sanal gerçeklik oyununun, oyuncuyu tamamen içine çeken bir anını gösteren görsel oluşturulması hedefleniyor.
+
+<img width="718" height="204" alt="image" src="https://github.com/user-attachments/assets/708febbf-f5d5-45b6-8905-5d55773c0f6b" />
+
 
 ```json
 {
