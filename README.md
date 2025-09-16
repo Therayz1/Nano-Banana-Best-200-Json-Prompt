@@ -1887,41 +1887,41 @@ Lüks bir butik otelin deniz manzaralı süit odasının tanıtım görselini ol
 
 ```json
 {
-  "concept": "Yüklenen otel fotoğrafını kullanarak, lüks ve konforlu bir otel odasının atmosferini yansıtan bir görsel oluşturma.",
-  "style": {
-    "art_style": "Fotorealistik İç Mekan Fotoğrafçılığı (Photorealistic Interior Photography), Lüks, Modern",
-    "color_palette": ["nötr tonlar", "beyaz", "bej", "ahşap tonları", "deniz mavisinin ince dokunuşları"],
-    "lighting": "Geniş pencerelerden gelen doğal gün ışığı, odayı aydınlatan ve sıcak bir atmosfer yaratan."
-  },
-  "composition": {
-    "main_subject": "Yüklenecek ürün fotoğrafı, (örneğin yatak başı, bir koltuk veya aksesuar olarak düşünülebilir)",
-    "background": "Lüks bir butik otelin deniz manzaralı süit odası. Geniş pencerelerden görünen sakin bir deniz manzarası.",
-    "extra_elements": [
-      "Minimalist ve modern tasarıma sahip mobilyalar (örneğin, zarif bir yatak, rahat bir okuma koltuğu, şık bir sehpa).",
-      "Yumuşak ve davetkar tekstiller (örneğin, kaliteli nevresimler, peluş yastıklar, dekoratif battaniyeler).",
-      "Odaya yerleştirilmiş ürünle uyumlu, sakin ve zarif dekoratif öğeler."
-    ]
-  },
-  "mood": "Konforlu, modern, sakin, lüks, davetkar, dinlendirici",
-  "camera_settings": {
-    "angle": "Odanın genişliğini ve ürünün mekan içindeki yerini en iyi şekilde gösteren geniş açılı bir bakış açısı.",
-    "lens": "Geniş açı lens, iç mekanın ferahlığını ve lüksünü vurgulayan."
-  },
-  "adaptation_rules": {
-    "replaceable_elements": [
-      "yüklenecek ürünün türü ve konumu",
-      "iç mekanın spesifik detayları (mobilya stilleri, duvar renkleri)",
-      "deniz manzarası yerine başka bir manzara (şehir, orman vb.)",
-      "ışıklandırma zamanı (gün batımı, şafak vakti vb.)"
-    ],
-    "fixed_elements": [
-      "lüks ve konforlu otel odası atmosferi",
-      "doğal ve bol ışıklandırma",
-      "fotorealistik kalite",
-      "ürünün mekana organik entegrasyonu"
-    ]
-  },
-  "prompt_template": "Integrate the uploaded product photo seamlessly into a photorealistic image of a luxurious and modern sea-view suite in a boutique hotel. The room should be bathed in natural light streaming through large windows, showcasing a serene sea view. Furnish the room with minimalist furniture and soft, inviting textiles. Ensure the product is elegantly placed to enhance the room's overall sense of comfort and luxury. The image should convey a tranquil, sophisticated, and inviting atmosphere, capturing the essence of a high-end hotel experience."
+  "concept": "Yüklenen otel fotoğrafını kullanarak, lüks ve konforlu bir otel odasının atmosferini yansıtan bir görsel oluşturma.",
+  "style": {
+    "art_style": "Fotorealistik İç Mekan Fotoğrafçılığı (Photorealistic Interior Photography), Lüks, Modern",
+    "color_palette": ["nötr tonlar", "beyaz", "bej", "ahşap tonları", "deniz mavisinin ince dokunuşları"],
+    "lighting": "Geniş pencerelerden gelen doğal gün ışığı; odayı aydınlatan ve sıcak bir atmosfer yaratan"
+  },
+  "composition": {
+    "main_subject": "Yüklenecek ürün fotoğrafı (örneğin yatak başı, koltuk veya aksesuar)",
+    "background": "Lüks bir butik otelin deniz manzaralı süit odası, geniş pencerelerden görünen sakin bir deniz manzarası",
+    "extra_elements": [
+      "Minimalist ve modern tasarıma sahip mobilyalar (zarif bir yatak, rahat bir okuma koltuğu, şık bir sehpa)",
+      "Yumuşak ve davetkar tekstiller (kaliteli nevresimler, peluş yastıklar, dekoratif battaniyeler)",
+      "Odaya yerleştirilmiş ürünle uyumlu, sakin ve zarif dekoratif öğeler"
+    ]
+  },
+  "mood": "Konforlu, modern, sakin, lüks, davetkar, dinlendirici",
+  "camera_settings": {
+    "angle": "Odanın genişliğini ve ürünün mekan içindeki yerini en iyi şekilde gösteren geniş açılı bakış açısı",
+    "lens": "Geniş açı lens, iç mekanın ferahlığını ve lüksünü vurgulayan"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": [
+      "yüklenecek ürünün türü ve konumu",
+      "iç mekanın spesifik detayları (mobilya stilleri, duvar renkleri)",
+      "deniz manzarası yerine başka bir manzara (şehir, orman vb.)",
+      "ışıklandırma zamanı (gün batımı, şafak vakti vb.)"
+    ],
+    "fixed_elements": [
+      "lüks ve konforlu otel odası atmosferi",
+      "doğal ve bol ışıklandırma",
+      "fotorealistik kalite",
+      "ürünün mekana organik entegrasyonu"
+    ]
+  },
+  "prompt_template": "Integrate the uploaded product photo seamlessly into a photorealistic image of a luxurious and modern sea-view suite in a boutique hotel. The room should be bathed in natural light streaming through large windows, showcasing a serene sea view. Furnish the room with minimalist furniture and soft, inviting textiles. Ensure the product is elegantly placed to enhance the room's overall sense of comfort and luxury. The image should convey a tranquil, sophisticated, and inviting atmosphere, capturing the essence of a high-end hotel experience."
 }
 ```
 
@@ -2217,30 +2217,38 @@ Yeni bir ağrı kesici ilacın, hızlı etki ve rahatlama sağladığını vurgu
 
 ```json
 {
-  "concept": "Yüklenen bir ağrı kesici görselini kullanarak, ürünün etkinliğini ve güvenilirliğini sembolize eden yeni bir görsel oluşturma.",
-  "style": {
-    "art_style": "Bilimsel illüstrasyon (Scientific illustration), soyut",
-    "color_palette": ["mavi", "beyaz", "gri"],
-    "lighting": "Temiz ve parlak ışıklandırma"
-  },
-  "composition": {
-    "main_subject": "[Yüklenecek Ağrı Kesici]'nin fotoğrafı",
-    "background": "İlacın moleküler yapısını stilize eden soyut bir arka plan",
-    "extra_elements": [
-      "Ürünün arkasında ağrının azaldığını simgeleyen rahatlamış bir insan silüeti (isteğe bağlı)."
+  "concept": "Yüklenen bir ağrı kesici görselini kullanarak, ürünün etkinliğini ve güvenilirliğini sembolize eden yeni bir görsel oluşturma.",
+  "style": {
+    "art_style": "Bilimsel illüstrasyon (Scientific illustration), soyut",
+    "color_palette": ["mavi", "beyaz", "gri"],
+    "lighting": "Temiz ve parlak ışıklandırma"
+  },
+  "composition": {
+    "main_subject": "Yüklenecek ağrı kesici görseli",
+    "background": "İlacın moleküler yapısını stilize eden soyut bir arka plan",
+    "extra_elements": [
+      "Ürünün arkasında ağrının azaldığını simgeleyen rahatlamış bir insan silüeti (isteğe bağlı)"
     ]
-  },
-  "mood": "Güvenilir, bilimsel, rahatlama hissi veren",
-  "camera_settings": {
-    "angle": "Sembolik ve açıklayıcı bir perspektif",
-    "lens": "Genel amaçlı lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["yüklenecek ürün görseli", "renk paleti", "arka plan detayları"],
-    "fixed_elements": ["bilimsel ve güvenilir atmosfer", "rahatlama hissi"]
-  },
-  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a trustworthy and scientific promotional visual. Place the painkiller against a stylized representation of the drug's molecular structure in the background. The overall visual should use clean and bright lighting to convey a sense of relief, healing, and scientific reliability."
+  },
+  "mood": "Güvenilir, bilimsel, rahatlama hissi veren",
+  "camera_settings": {
+    "angle": "Sembolik ve açıklayıcı bir perspektif",
+    "lens": "Genel amaçlı lens"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": [
+      "yüklenecek ürün görseli",
+      "renk paleti",
+      "arka plan detayları"
+    ],
+    "fixed_elements": [
+      "bilimsel ve güvenilir atmosfer",
+      "rahatlama hissi"
+    ]
+  },
+  "prompt_template": "Take the uploaded photo of the main subject and transform it into a trustworthy and scientific promotional visual. Place the painkiller against a stylized representation of the drug's molecular structure in the background. The overall visual should use clean and bright lighting to convey a sense of relief, healing, and scientific reliability."
 }
+
 ```
 
 -----
@@ -2256,30 +2264,38 @@ Yeni açılan bir tema parkının, aileler için eğlenceli ve heyecan verici ol
 
 ```json
 {
-  "concept": "Yüklenen bir eğlence parkı görselini kullanarak, parkın neşesini ve heyecanını yansıtan bir görsel oluşturma.",
-  "style": {
-    "art_style": "Canlı fotoğrafçılık (Vibrant photography), dinamik",
-    "color_palette": ["canlı renkler", "mavi", "kırmızı"],
-    "lighting": "Parlak ve net gün ışığı"
-  },
-  "composition": {
-    "main_subject": "[Yüklenecek Park Fotoğrafı]",
-    "background": "Tema parkı manzarası",
-    "extra_elements": [
-      "Roller coaster'lar, dönme dolaplar ve mutlu aileler gibi unsurların vurgulanması,",
-      "Dinamik kompozisyon ve hareket bulanıklığı efekti (isteğe bağlı)."
+  "concept": "Yüklenen bir eğlence parkı görselini kullanarak, parkın neşesini ve heyecanını yansıtan bir görsel oluşturma.",
+  "style": {
+    "art_style": "Canlı fotoğrafçılık (Vibrant photography), dinamik",
+    "color_palette": ["canlı renkler", "mavi", "kırmızı"],
+    "lighting": "Parlak ve net gün ışığı"
+  },
+  "composition": {
+    "main_subject": "Yüklenecek park fotoğrafı",
+    "background": "Tema parkı manzarası",
+    "extra_elements": [
+      "Roller coaster'lar, dönme dolaplar ve mutlu aileler gibi unsurların vurgulanması",
+      "Dinamik kompozisyon ve hareket bulanıklığı efekti (isteğe bağlı)"
     ]
-  },
-  "mood": "Neşeli, heyecan verici, macera dolu",
-  "camera_settings": {
-    "angle": "Parkın genelini gösteren geniş açı",
-    "lens": "Geniş açı lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["yüklenecek park görseli", "eğlence araçları", "atmosfer (gece/gündüz)", "renk paleti"],
-    "fixed_elements": ["dinamik kompozisyon", "neşeli ve heyecan verici his"]
-  },
-  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into a colorful and exciting promotional visual for a theme park. Emphasize elements like roller coasters, Ferris wheels, and happy families having fun. The visual should have a dynamic composition and bright, clear daylight to convey a sense of joy and adventure."
+  },
+  "mood": "Neşeli, heyecan verici, macera dolu",
+  "camera_settings": {
+    "angle": "Parkın genelini gösteren geniş açı",
+    "lens": "Geniş açı lens"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": [
+      "yüklenecek park görseli",
+      "eğlence araçları",
+      "atmosfer (gece/gündüz)",
+      "renk paleti"
+    ],
+    "fixed_elements": [
+      "dinamik kompozisyon",
+      "neşeli ve heyecan verici his"
+    ]
+  },
+  "prompt_template": "Take the uploaded photo of the main subject and transform it into a colorful and exciting promotional visual for a theme park. Emphasize elements like roller coasters, Ferris wheels, and happy families having fun. The visual should have a dynamic composition and bright, clear daylight to convey a sense of joy and adventure."
 }
 ```
 
@@ -2295,29 +2311,29 @@ Elmas bir yüzüğün, parlaklığını ve kesim detaylarını vurgulayan makro 
 
 ```json
 {
-  "concept": "Yüklenen bir elmas yüzük görselini kullanarak, ürünün detaylarını, parlaklığını ve kalitesini vurgulayan bir görsel oluşturma.",
-  "style": {
-    "art_style": "Takı fotoğrafçılığı (Jewelry photography), makro",
-    "color_palette": ["elmas parıltısı", "siyah", "gümüş"],
-    "lighting": "Yumuşak spot ışığı"
-  },
-  "composition": {
-    "main_subject": "[Yüklenecek Elmas Yüzük Fotoğrafı]",
-    "background": "Siyah kadife bir zemin",
-    "extra_elements": [
-      "Yüzüğün yüzeyindeki ışık yansımaları ve kesim detaylarının belirginleştirilmesi."
+  "concept": "Yüklenen bir elmas yüzük görselini kullanarak, ürünün detaylarını, parlaklığını ve kalitesini ön plana çıkaran bir görsel oluşturma.",
+  "style": {
+    "art_style": "Takı fotoğrafçılığı (Jewelry photography), makro çekim",
+    "color_palette": ["elmas parıltısı", "siyah", "gümüş"],
+    "lighting": "Yumuşak spot ışığı, parıltıları vurgulayan"
+  },
+  "composition": {
+    "main_subject": "[Yüklenecek Elmas Yüzük Fotoğrafı]",
+    "background": "Siyah kadife zemin",
+    "extra_elements": [
+      "Yüzüğün kesim detayları ve ışık yansımalarının net şekilde öne çıkarılması"
     ]
-  },
-  "mood": "Lüks, zarif, estetik",
-  "camera_settings": {
-    "angle": "Ultra yakın çekim (macro shot)",
-    "lens": "Makro lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["yüklenecek yüzük görseli", "malzeme (altın, gümüş vb.)", "ışıklandırma", "arka plan"],
-    "fixed_elements": ["detaylara odaklanma", "makro çekim", "estetik görünüm"]
-  },
-  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into an aesthetic and ultra-close-up macro shot visual. Highlight its sparkle and cut details under a soft spotlight, placed on a black velvet surface, to emphasize its luxury, elegance, and quality."
+  },
+  "mood": "Lüks, zarif, estetik",
+  "camera_settings": {
+    "angle": "Ultra yakın çekim (macro shot)",
+    "lens": "Makro lens"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": ["yüklenecek yüzük görseli", "malzeme (altın, gümüş vb.)", "ışıklandırma", "arka plan"],
+    "fixed_elements": ["detayların vurgulanması", "makro çekim", "lüks ve estetik görünüm"]
+  },
+  "prompt_template": "Take the uploaded photo of the [main_subject] and transform it into an elegant ultra-close-up macro shot. Emphasize its sparkle, reflections, and cut details under a soft spotlight on a black velvet surface to highlight its luxury, elegance, and quality."
 }
 ```
 
