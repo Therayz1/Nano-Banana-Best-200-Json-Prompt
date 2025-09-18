@@ -7444,3 +7444,45 @@ Bu senaryo, bir ürün için çevre dostu ve sürdürülebilir bir ambalaj tasar
   }
 }
 ```
+----
+<a id="170"></a>
+### 170-) yüklediğin yemek görsellerini birleştirip tek bir yemek gibi göstermek
+
+<img width="673" height="368" alt="image" src="https://github.com/user-attachments/assets/fecae2ae-8ebd-44f2-92a6-bc937b3e0390" />
+
+```json
+{
+  "concept": "Merge the uploaded food images into a single unified dish. Do not just place them side by side; instead, creatively blend their ingredients and presentation so that they look like one coherent new meal.",
+  "style": {
+    "art_style": "Hyper-realistic food photography",
+    "lighting": "Bright natural light, appetizing, studio-quality",
+    "color_palette": [
+      "Rich warm tones for food",
+      "Natural greens and reds from vegetables",
+      "Golden browns for cooked items"
+    ],
+    "texture": "Realistic textures showing melted cheese, grilled meat, fresh vegetables, crispy bread"
+  },
+  "composition": {
+    "main_subject": "The combined dish that integrates all uploaded foods into a single meal",
+    "background": "Minimal dining table or neutral blurred background",
+    "extra_elements": [
+      "Unified plate or pizza base holding the fusion",
+      "Garnishes that tie both cuisines together",
+      "Balanced portions so that both original dishes are clearly represented"
+    ]
+  },
+  "mood": "Appetizing, creative, surprising but believable",
+  "adaptation_rules": {
+    "fixed_elements": [
+      "Always blend the uploaded foods into one single dish",
+      "Do not separate them as different items",
+      "Keep the result photorealistic and edible-looking"
+    ],
+    "replaceable_elements": [
+      "Base of the dish can adapt (pizza crust, plate, wrap, etc.) depending on foods uploaded",
+      "Ingredients can overlap or mix (cheese melting over meat, vegetables topping bread, etc.)"
+    ]
+  }
+}
+```
