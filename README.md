@@ -370,6 +370,7 @@
 *   [166. Mücevher Tasarımı](#166)
 *   [167. Çevre Ürün Tasarımı](#167)
 *   [168. yüklenen bir fotoğrafı referans alarak o kişiyi karikatür figürüne dönüştürecek](#168)
+*   [169. yüklenen bir fotoğrafı ink splash / paint splatter dönüştürsünk](#169)
 
 ***
 
@@ -7399,5 +7400,47 @@ Bu senaryo, bir ürün için çevre dostu ve sürdürülebilir bir ambalaj tasar
     ]
   },
   "prompt_template": "[FOTOĞRAF_URL'Sİ VEYA GÖRSEL GİRDİSİ] Use the face from the provided image to create a hyper-detailed 3D digital render of a personalized bobblehead caricature figure. The figure should be standing with hands in pockets, wearing over-ear headphones, a t-shirt with '[yazı]' text, and blue jeans. Place the character against a minimalist, solid [arka plan rengi] studio background. The style must be a realistic clay sculpture, lit with dramatic studio lighting. This is a full-body shot captured with an 85mm portrait lens, creating a confident and modern mood."
+}
+```
+
+
+<a id="169"></a>
+### 169-) yüklenen bir fotoğrafı ink splash / paint splatter dönüştürsün.
+
+<img width="640" height="190" alt="image" src="https://github.com/user-attachments/assets/6d072eea-4513-43aa-84ab-a1d93d1371af" />
+
+```json
+{
+  "concept": "Convert the uploaded photo directly into an Ink Splash / Paint Splatter artwork. Do NOT describe or reinterpret the subject of the photo. Simply transform the existing photo itself into this style.",
+  "style": {
+    "art_style": "Monochromatic Ink Splash Expressionism, Abstract Paint Splatter, Dynamic Digital Illustration",
+    "color_palette": [
+      "Dominant tones extracted from the uploaded photo",
+      "Accents of black, gray, and white for contrast",
+      "Optional bold highlight splashes"
+    ],
+    "lighting": "High-contrast with dramatic shadows, keeping the source photo recognizable but stylized"
+  },
+  "composition": {
+    "main_subject": "The uploaded photo itself, kept intact but stylized with ink splashes",
+    "background": "Flat or minimal with scattered splatter textures",
+    "extra_elements": [
+      "Dynamic paint bursts integrated around edges of the subject",
+      "Brushstroke trails radiating from movement points",
+      "Randomized ink drips to enhance abstract energy"
+    ]
+  },
+  "mood": "Energetic, raw, bold, expressive",
+  "adaptation_rules": {
+    "fixed_elements": [
+      "Never replace or reinterpret the subject",
+      "Always use ink splash, brushstroke, and splatter overlays",
+      "Preserve the original composition of the uploaded photo"
+    ],
+    "replaceable_elements": [
+      "Extract colors from the uploaded image as the dominant palette",
+      "Adjust background to fit ink splash style"
+    ]
+  }
 }
 ```
