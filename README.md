@@ -232,7 +232,7 @@
 *   [76. Kampanya Görseli](#76)
 
 ### Sanat Terapisi
-*   [77. İlham Verici Görsel](#77)
+*   [77. İki kişinin fotoğrafını birleştirme](#77)
 
 ### Oyunlaştırma
 *   [78. Uygulama Görseli](#78)
@@ -369,6 +369,7 @@
 *   [165. Bölünmüş Karşılaştırma Stili Fotoğraf](#165)
 *   [166. Mücevher Tasarımı](#166)
 *   [167. Çevre Ürün Tasarımı](#167)
+*   [168. yüklenen bir fotoğrafı referans alarak o kişiyi karikatür figürüne dönüştürecek](#168)
 
 ***
 
@@ -2640,11 +2641,15 @@ Bir sanal gerçeklik oyununun, oyuncuyu tamamen içine çeken bir anını göste
 
 Bir akıllı fabrikanın, robotların ve otomasyon sistemlerinin uyum içinde çalıştığını gösteren bir görsel oluşturulması isteniyor.
 
+<img width="667" height="183" alt="image" src="https://github.com/user-attachments/assets/68240260-a11e-425f-88c6-2d743841b17d" />
+
+
 ```json
 {
-  "concept": "Otomasyon ve Endüstri 4.0'ın gücünü ve verimliliğini yansıtan bir görsel.",
+  "concept": "Yüklenen marka görselini temel alarak, otomasyon ve Endüstri 4.0 temasını bu markanın kimliğiyle birleştiren bir görsel.",
+  "base_image": "Kullanıcı tarafından yüklenecek olan otomasyon şirketi veya akıllı fabrika markasının görseli.",
   "style": {
-    "art_style": "Fütüristik endüstriyel illüstrasyon (Futuristic industrial illustration)",
+    "art_style": "Yüklenen görselin tarzına uyarlanmış fütüristik endüstriyel illüstrasyon (Futuristic industrial illustration adapted to the uploaded image's style)",
     "color_palette": ["mavi", "gri", "siyah", "beyaz"],
     "lighting": "Temiz ve parlak fabrika aydınlatması"
   },
@@ -2653,16 +2658,16 @@ Bir akıllı fabrikanın, robotların ve otomasyon sistemlerinin uyum içinde ç
     "background": "Üretim hattı",
     "extra_elements": ["otomatik taşıma sistemleri", "verimli üretim süreci"]
   },
-  "mood": "Teknolojik, verimli, akıllı",
+  "mood": "Teknolojik, verimli, akıllı, markaya özgü",
   "camera_settings": {
     "angle": "Fabrikanın genelini gösteren geniş çekim",
     "lens": "Geniş açı lens"
   },
   "adaptation_rules": {
     "replaceable_elements": ["üretim türü", "robot tasarımları", "ışıklandırma", "renk paleti"],
-    "fixed_elements": ["otomasyon ve endüstri 4.0 teması", "fütüristik endüstriyel estetik"]
+    "fixed_elements": ["otomasyon ve endüstri 4.0 teması", "yüklenen görselin ana marka kimliği"]
   },
-  "prompt_template": "Create a visual of a smart factory, showing robot arms assembling products with precision and automatic transport systems operating, with a futuristic industrial aesthetic and a color palette of {color_palette}."
+  "prompt_template": "Using the uploaded image as a style and brand reference, create a visual of a futuristic smart factory. The scene should show robot arms assembling products with precision and include automatic transport systems. Adapt the visual to have a futuristic industrial aesthetic that matches the brand's identity, using a color palette of {color_palette}."
 }
 ```
 
@@ -2673,29 +2678,34 @@ Bir akıllı fabrikanın, robotların ve otomasyon sistemlerinin uyum içinde ç
 
 Bir siber güvenlik yazılımının, dijital tehditlere karşı koruma sağladığını vurgulayan bir tanıtım görseli oluşturulması isteniyor.
 
+<img width="725" height="232" alt="image" src="https://github.com/user-attachments/assets/678c7fe7-f9c3-4dc3-acfb-0b9e4a2d5757" />
+
+
 ```json
 {
-  "concept": "Bir siber güvenlik ürününün koruma ve güven hissini soyut bir görselle yansıtma.",
+  "concept": "Yüklenen siber güvenlik yazılımı ürününün görsel kimliğini temel alarak, koruma ve güven temasını bu markanın estetiğiyle birleştiren soyut bir görsel.",
+  "base_image": "Kullanıcı tarafından yüklenecek olan siber güvenlik yazılımı ürününün görseli.",
   "style": {
-    "art_style": "Soyut dijital sanat (Abstract digital art), siber uzay estetiği",
+    "art_style": "Yüklenen görselin tarzına uyarlanmış soyut dijital sanat (Abstract digital art adapted to the uploaded image's style), siber uzay estetiği",
     "color_palette": ["koyu mavi", "yeşil", "kırmızı"],
     "lighting": "Parlak, neon ışıklar, veri akışını vurgulayan"
   },
   "composition": {
-    "main_subject": "Dijital bir kalkan",
+    "main_subject": "Markanın kimliğini yansıtan dijital bir kalkan",
     "background": "Parlama yapan veri akışları",
     "extra_elements": ["kötü amaçlı yazılımları engelleyen soyut şekiller"]
   },
-  "mood": "Güvenlik, koruma, teknolojik",
+  "mood": "Güvenlik, koruma, teknolojik, markaya özgü",
   "camera_settings": {
     "angle": "Simgesel, soyut bir perspektif",
     "lens": "Genel amaçlı lens"
   },
   "adaptation_rules": {
     "replaceable_elements": ["koruma türü (veri, ağ vb.)", "renk paleti", "semboller"],
-    "fixed_elements": ["siber güvenlik teması", "soyut ve teknolojik tarz"]
+    "fixed_elements": ["siber güvenlik teması", "yüklenen görselin ana marka kimliği"]
   },
-  "prompt_template": "Create an abstract and technological promotional visual for a cybersecurity software, showing a digital shield blocking glowing data streams and malicious software, conveying a sense of security and protection in a cyberspace aesthetic with a color palette of {color_palette}."
+  "prompt_template": "Using the uploaded cybersecurity product's visual as a style and brand reference, create an abstract and technological promotional visual. The scene should feature a digital shield, reflecting the brand's identity, blocking glowing data streams and abstract shapes representing malicious software. This visual should convey a strong sense of security and protection in a cyberspace aesthetic, using a color palette of {color_palette}."
+}pace aesthetic with a color palette of {color_palette}."
 }
 ```
 
@@ -2705,6 +2715,9 @@ Bir siber güvenlik yazılımının, dijital tehditlere karşı koruma sağladı
 **63. Veri Analizi ve Büyük Veri - Konsept Görseli**
 
 Büyük veri analizi süreçlerini açıklayan bir infografik veya soyut görsel oluşturulması isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/b0a3c55d-f65e-4ab7-8f90-ed91487a2108" />
+
 
 ```json
 {
@@ -2739,6 +2752,9 @@ Büyük veri analizi süreçlerini açıklayan bir infografik veya soyut görsel
 
 Bir bulut depolama hizmetinin, verilerin güvenli ve erişilebilir olduğunu vurgulayan bir tanıtım görseli oluşturulması hedefleniyor.
 
+<img width="556" height="421" alt="image" src="https://github.com/user-attachments/assets/79fdbf39-46f2-4cce-b70d-584dd3065480" />
+
+
 ```json
 {
   "concept": "Bir bulut bilişim hizmetinin güvenilirliğini ve erişilebilirliğini simgeleyen bir görsel.",
@@ -2771,6 +2787,9 @@ Bir bulut depolama hizmetinin, verilerin güvenli ve erişilebilir olduğunu vur
 **65. Yapay Zeka Sanatı - Soyut Eser**
 
 "Düşünce Akışı" temasını yansıtan, soyut ve düşündürücü bir yapay zeka sanatı eseri oluşturulması isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/aec9c2da-2997-4e2a-ac81-204c38f1b9cf" />
+
 
 ```json
 {
@@ -2805,6 +2824,9 @@ Bir bulut depolama hizmetinin, verilerin güvenli ve erişilebilir olduğunu vur
 
 Bir sosyal medya pazarlama kampanyası için, etkileşimi ve büyümeyi vurgulayan bir görsel oluşturulması isteniyor.
 
+<img width="524" height="265" alt="image" src="https://github.com/user-attachments/assets/2f602083-a104-4321-95c0-39b0a128ecdc" />
+
+
 ```json
 {
   "concept": "Dijital pazarlamanın büyüme ve topluluk temasını yansıtan bir görsel.",
@@ -2837,6 +2859,9 @@ Bir sosyal medya pazarlama kampanyası için, etkileşimi ve büyümeyi vurgulay
 **67. Sosyal Medya Reklamları - Reklam Görseli**
 
 Yeni bir online kursun, öğrenmeyi ve kariyer gelişimini teşvik eden bir Instagram reklam görseli oluşturulması isteniyor.
+
+<img width="613" height="308" alt="image" src="https://github.com/user-attachments/assets/97ebd48b-0c42-4496-b72a-62abbead9671" />
+
 
 ```json
 {
@@ -2871,29 +2896,52 @@ Yeni bir online kursun, öğrenmeyi ve kariyer gelişimini teşvik eden bir Inst
 
 Yeni ürün lansmanını duyuran bir e-posta bülteni için görsel oluşturulması hedefleniyor.
 
+<img width="642" height="323" alt="image" src="https://github.com/user-attachments/assets/b1d504ee-9dad-4873-af05-d8d3a763a86f" />
+
+
 ```json
 {
-  "concept": "Yeni bir ürün lansmanını duyurmak için minimalist ve çekici bir görsel.",
+  "concept": "Yüklenen ürün fotoğrafını kullanarak, merak uyandıran ve prestijli bir ürün lansman duyurusu görseli oluşturmak. Amaç, ürünü kahramanlaştırmak ve hedef kitlede heyecan yaratmaktır.",
   "style": {
-    "art_style": "Minimalist ürün fotoğrafçılığı (Minimalist product photography), temiz",
-    "color_palette": ["ürünün ana rengi", "marka logosu renkleri"],
-    "lighting": "Yumuşak ve stüdyo aydınlatması"
+    "art_style": "Modern ve lüks ürün fotoğrafçılığı, temiz estetik, yüksek çözünürlük, ticari çekim kalitesi",
+    "color_palette": [
+      "Ürünün rengiyle uyumlu nötr tonlar (beyaz, gri, bej)",
+      "Marka kimliğinden gelen bir vurgu rengi",
+      "Metinler için yüksek kontrast oluşturan renk"
+    ],
+    "lighting": "Yumuşak, dağınık stüdyo ışığı (softbox), ürünün formunu ve dokusunu vurgulayan, sert gölgelerden arındırılmış profesyonel aydınlatma."
   },
   "composition": {
-    "main_subject": "Yeni ürün",
-    "background": "Temiz ve minimalist bir zemin",
-    "extra_elements": ["marka logosu"]
+    "main_subject": "Görselin odak noktasındaki [Ürün Adı/Türü], tüm detayları net bir şekilde görülecek ve ilgi çekecek şekilde konumlandırılmış.",
+    "background": "Tek renkli, hafif gradyanlı veya ürünün doğasıyla ilişkili (örneğin, bir saat için mermer, bir içecek için su dalgası) minimalist dokulu bir yüzey.",
+    "extra_elements": [
+      "Marka logosu (sağ veya sol üst köşe gibi stratejik bir noktada)",
+      "Lansman sloganı veya tarihi ('Çok Yakında', 'Şimdi Satışta', 'Yeniliği Keşfet')",
+      "Ürünle ilgili tek bir tamamlayıcı ve soyut obje (örneğin, bir parfüm için bir ipek kumaş parçası)"
+    ]
   },
-  "mood": "Zarif, çekici, modern",
+  "mood": "Premium, yenilikçi, zarif, minimalist ve heyecan verici",
   "camera_settings": {
-    "angle": "Ürünü en iyi şekilde sergileyen açılar",
-    "lens": "50mm veya makro"
+    "angle": "Ürünü güçlü gösteren 45 derece açıdan çekim, estetik bir düz çekim (flat lay) veya göz hizası.",
+    "lens": "100mm Makro lens (ürün detayları için), 50mm standart lens (genel kompozisyon için)."
   },
   "adaptation_rules": {
-    "replaceable_elements": ["ürün türü", "marka logosu", "renk paleti"],
-    "fixed_elements": ["minimalist ve çekici estetik", "ürün lansmanı teması"]
+    "replaceable_elements": [
+      "kaynak ürün fotoğrafı",
+      "ürün adı/türü",
+      "marka logosu",
+      "arka plan dokusu/rengi",
+      "lansman sloganı veya metni",
+      "tamamlayıcı obje"
+    ],
+    "fixed_elements": [
+      "lüks ve minimalist estetik",
+      "ürün lansmanı konsepti",
+      "profesyonel stüdyo aydınlatması",
+      "ürünün odakta olması"
+    ]
   },
-  "prompt_template": "Create a minimalist and visually appealing image for an email newsletter announcing a new product launch, elegantly showcasing the product on a clean background, with the product's main color and brand logo being prominent."
+  "prompt_template": "[ÜRÜN_FOTOĞRAF_URL'Sİ] Create a high-end, minimalist product launch announcement image using the provided photo of a [Ürün Adı/Türü]. The product must be the central hero element, placed on a clean [arka plan dokusu/rengi] background. Illuminate the scene with soft, diffused studio lighting to elegantly highlight the product's form and texture without harsh shadows. Position the [Marka Adı] logo in the top-right corner. Add the headline '[Lansman Sloganı]' in a sophisticated, modern font. The overall mood must be premium, innovative, and elegant. Capture this from a [çekim açısı] as if using a [lens türü] lens."
 }
 ```
 
@@ -2903,6 +2951,9 @@ Yeni ürün lansmanını duyuran bir e-posta bülteni için görsel oluşturulma
 **69. İçerik Pazarlaması - Makale Görseli**
 
 "Evden Çalışmanın Verimliliğini Artırma Yolları" konulu bir makale için görsel oluşturulması isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/ef476340-2cb1-4ab5-8de2-6feeda3f39b0" />
+
 
 ```json
 {
@@ -2937,6 +2988,9 @@ Yeni ürün lansmanını duyuran bir e-posta bülteni için görsel oluşturulma
 
 "En İyi Vegan Tarifler" konulu bir web sitesi için SEO dostu bir görsel oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/98b6b0b5-673e-4905-b842-eb809e94ce8f" />
+
+
 ```json
 {
   "concept": "Bir web sitesinin SEO performansını artırmak için yüksek kaliteli ve optimize edilmiş bir görsel.",
@@ -2970,29 +3024,49 @@ Yeni ürün lansmanını duyuran bir e-posta bülteni için görsel oluşturulma
 
 Çevre dostu bir kahve markasının bilinirliğini artırmak için özgün bir görsel oluşturulması isteniyor.
 
+<img width="577" height="373" alt="image" src="https://github.com/user-attachments/assets/217313ff-2cf4-4061-8ffb-6cd13811c8dd" />
+
+
 ```json
 {
-  "concept": "Bir markanın değerlerini (örneğin sürdürülebilirlik) yansıtan akılda kalıcı bir görsel.",
+  "concept": "Yüklenen kahve ürünü fotoğrafını (bardak, paket vb.) referans alarak, markanın kimliğini ve sürdürülebilirlik gibi değerlerini yansıtan, hedef kitleyle bağ kuracak bir yaşam tarzı reklam görseli oluşturmak.",
   "style": {
-    "art_style": "Yaşam tarzı fotoğrafçılığı (Lifestyle photography), doğal",
-    "color_palette": ["doğal tonlar", "yeşil", "kahverengi"],
-    "lighting": "Güneşli gün ışığı"
+    "art_style": "Otantik ve sıcak yaşam tarzı fotoğrafçılığı (Lifestyle photography), doğal ve sinematik",
+    "color_palette": [
+      "Markanın ana renkleri (ürün görselinden alınacak)",
+      "Doğal ve topraksı tonlar",
+      "Arka planla uyumlu yeşil ve kahverengi tonları"
+    ],
+    "lighting": "Altın saatlerdeki (golden hour) sıcak ve doğal güneş ışığı"
   },
   "composition": {
-    "main_subject": "Elinde geri dönüştürülebilir bir kahve fincanı tutan gülümseyen bir kişi",
-    "background": "Yeşil kahve tarlaları",
-    "extra_elements": ["markanın logosu"]
+    "main_subject": "Elinde, logosu ve tasarımı net bir şekilde görünen, yüklenen görseldeki [Marka Adı] kahve ürününü (bardak veya paket) tutan, doğal ve samimi bir şekilde gülümseyen bir kişi.",
+    "background": "Markanın doğallık mesajını destekleyen, güneşli bir kahve tarlası veya markanın hikayesine uygun başka bir doğal mekan (orman, dağ vb.).",
+    "extra_elements": [
+      "Ürünün logosu ve ambalaj tasarımı (kaynak görselden alınacak)",
+      "Doğal dokular (ahşap, yapraklar, toprak)"
+    ]
   },
-  "mood": "Akılda kalıcı, doğal, sürdürülebilir",
+  "mood": "Samimi, güvenilir, doğa dostu, huzurlu ve akılda kalıcı",
   "camera_settings": {
-    "angle": "Orta yakın çekim, kişiyi ve arka planı gösteren",
-    "lens": "35mm veya 50mm"
+    "angle": "Orta yakın çekim (Medium close-up), hem kişiyi hem de arka planın güzelliğini yakalayan bir açı.",
+    "lens": "35mm veya 50mm, doğal bir perspektif ve hafif alan derinliği için."
   },
   "adaptation_rules": {
-    "replaceable_elements": ["marka logosu", "kişi", "ürün", "mekan"],
-    "fixed_elements": ["markanın değerlerini vurgulama", "doğallık ve sürdürülebilirlik teması"]
+    "replaceable_elements": [
+      "kaynak ürün fotoğrafı (marka kimliği için)",
+      "modelin cinsiyeti, yaşı ve görünümü",
+      "arka plan mekanı (kahve tarlası, orman, modern kafe)",
+      "günün saati (sabah, öğleden sonra)"
+    ],
+    "fixed_elements": [
+      "markanın değerlerini (sürdürülebilirlik) vurgulama",
+      "otantik ve doğal yaşam tarzı estetiği",
+      "ürünün ve logosunun net bir şekilde gösterilmesi",
+      "sıcak ve doğal ışıklandırma"
+    ]
   },
-  "prompt_template": "Create a memorable and unique visual for an eco-friendly coffee brand, showing a smiling person holding a recyclable coffee cup, with green coffee fields and sunlight in the background, with the brand's logo prominently displayed on the cup."
+  "prompt_template": "[ÜRÜN_FOTOĞRAF_URL'Sİ] Create an authentic and warm lifestyle advertisement using the branding (logo, colors, design) from the provided coffee product image. The scene features a naturally smiling person holding the [Marka Adı] coffee product, making the branding clearly visible. Place them in a beautiful, sunlit [arka plan mekanı, e.g., coffee field] that evokes a sense of sustainability and nature. The lighting should be warm, golden hour sunlight. The overall mood must be memorable, natural, and eco-conscious. Capture this as a medium close-up shot with a 35mm lens to get both the person and the scenic background."
 }
 ```
 
@@ -3002,6 +3076,9 @@ Yeni ürün lansmanını duyuran bir e-posta bülteni için görsel oluşturulma
 **72. Kurumsal İletişim - Ekip Çalışması Görseli**
 
 Şirket içi bir duyuru için, ekip çalışmasını ve işbirliğini teşvik eden bir görsel oluşturulması isteniyor.
+
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/d7a035d6-5dc5-4708-8007-c1c82974ecc7" />
+
 
 ```json
 {
@@ -3036,6 +3113,9 @@ Yeni ürün lansmanını duyuran bir e-posta bülteni için görsel oluşturulma
 
 Bir yazılım geliştirici pozisyonu için, şirketin yenilikçi ve dinamik çalışma ortamını vurgulayan bir iş ilanı görseli oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/fe77d734-e54a-4339-9c40-869714ede7bb" />
+
+
 ```json
 {
   "concept": "Bir iş ilanının veya kariyer sayfasının çalışma ortamını ve gelişim fırsatlarını yansıtan görseli.",
@@ -3069,29 +3149,50 @@ Bir yazılım geliştirici pozisyonu için, şirketin yenilikçi ve dinamik çal
 
 Yeni bir teknoloji ürününün lansmanı için, medyanın ilgisini çekecek bir görsel oluşturulması isteniyor.
 
+<img width="558" height="280" alt="image" src="https://github.com/user-attachments/assets/e328cfbc-d1d6-415a-8937-d10a00b1413e" />
+
+
 ```json
 {
-  "concept": "Bir ürün lansmanı için medyanın ilgisini çekecek yüksek kaliteli ve şık bir görsel.",
+  "concept": "Yüklenen yeni ürün fotoğrafını referans alarak, ürünün tasarımını ve özelliklerini öne çıkaran, medya lansmanları ve basın bültenleri için uygun, ultra-yüksek kaliteli ve minimalist bir stüdyo görseli oluşturmak.",
   "style": {
-    "art_style": "Stüdyo ürün fotoğrafçılığı (Studio product photography), minimalist",
-    "color_palette": ["ürün rengi", "beyaz", "gri"],
-    "lighting": "Yumuşak ve stüdyo aydınlatması"
+    "art_style": "Premium stüdyo ürün fotoğrafçılığı, CGI ve 3D render kalitesinde, minimalist ve sofistike",
+    "color_palette": [
+      "Ürünün ana ve vurgu renkleri (kaynak görselden alınacak)",
+      "Nötr arka plan tonları (açık gri, antrasit, mat siyah)",
+      "Yansımalar için metalik tonlar"
+    ],
+    "lighting": "Ürünün hatlarını ve malzemesini ortaya çıkaran dramatik stüdyo aydınlatması (örneğin, tek bir softbox ve kenar aydınlatması - rim light)."
   },
   "composition": {
-    "main_subject": "Yeni teknoloji ürünü",
-    "background": "Minimalist bir stüdyo ortamı",
-    "extra_elements": ["şık ve fütüristik tasarım", "net detaylar"]
+    "main_subject": "Yüklenen görseldeki [Ürün Adı/Türü], sanki bir podyumdaymış gibi tek başına ve güçlü bir şekilde sunulmuş.",
+    "background": "Hafif yansımalı bir yüzeye sahip (reflective surface) veya tamamen pürüzsüz, tek renkli minimalist bir stüdyo zemini.",
+    "extra_elements": [
+      "Ürünün en ince tasarım detayları",
+      "Malzeme dokusunun (metal, cam, mat plastik vb.) vurgulanması",
+      "Gizem ve beklenti yaratan hafif sis veya duman efekti (opsiyonel)"
+    ]
   },
-  "mood": "Şık, fütüristik, profesyonel",
+  "mood": "Premium, yenilikçi, arzu uyandıran, minimalist ve güçlü",
   "camera_settings": {
-    "angle": "Ürünü en iyi gösteren açılar",
-    "lens": "Makro veya 50mm"
+    "angle": "Ürünü kahramanlaştıran hafif alçak açı (low angle hero shot), üç çeyrek görünüm (three-quarter view).",
+    "lens": "100mm Makro lens (tüm detayların keskinliği için)."
   },
   "adaptation_rules": {
-    "replaceable_elements": ["ürün türü", "rengi", "ekipmanlar"],
-    "fixed_elements": ["lansman teması", "yüksek çözünürlük ve kalite", "minimalist estetik"]
+    "replaceable_elements": [
+      "kaynak ürün fotoğrafı",
+      "ürün adı/türü",
+      "arka plan rengi ve yüzeyi (yansımalı, mat vb.)",
+      "aydınlatma şeması (dramatik, yumuşak vb.)"
+    ],
+    "fixed_elements": [
+      "medya lansmanı konsepti",
+      "ultra-yüksek kalite ve çözünürlük",
+      "minimalist ve premium estetik",
+      "ürünün tek ve ana odak noktası olması"
+    ]
   },
-  "prompt_template": "Create a high-resolution and eye-catching visual for a new technology product launch, highlighting its sleek and futuristic design in a minimalist studio setting, with soft lighting and all details clearly visible."
+  "prompt_template": "[ÜRÜN_FOTOĞRAF_URL'Sİ] Create an ultra-high-resolution, premium studio product shot for a media launch, using the provided photo of the [Ürün Adı/Türü]. The product must be the sole hero element, presented on a minimalist, [arka plan yüzeyi/rengi] background. Use dramatic studio lighting with softboxes and rim lights to accentuate its futuristic design, sleek lines, and material texture. The style should be that of a sophisticated CGI render, creating a powerful, innovative, and desirable mood. Capture this from a [çekim açısı, e.g., low angle hero shot] with a 100mm macro lens to ensure every detail is sharp and clear."
 }
 ```
 
@@ -3101,6 +3202,9 @@ Yeni bir teknoloji ürününün lansmanı için, medyanın ilgisini çekecek bir
 **75. Etkinlik Yönetimi - Festival Görseli**
 
 Bir müzik festivali için, enerjik ve davetkar bir tanıtım görseli oluşturulması isteniyor.
+
+<img width="838" height="488" alt="image" src="https://github.com/user-attachments/assets/1e72874b-7dc3-45f6-b59b-626d199ed987" />
+
 
 ```json
 {
@@ -3135,62 +3239,144 @@ Bir müzik festivali için, enerjik ve davetkar bir tanıtım görseli oluşturu
 
 Ağaç dikme kampanyası için, umut verici ve ilham verici bir görsel oluşturulması isteniyor.
 
+<img width="834" height="210" alt="image" src="https://github.com/user-attachments/assets/fa78ed4f-3e44-49fc-b380-db0e0fd1e485" />
+
+
 ```json
 {
-  "concept": "Bir gönüllülük kampanyasının umut verici ve toplumsal fayda yönünü yansıtan bir görsel.",
+  "concept": "İsmi ve logosu verilen bir Sivil Toplum Kuruluşu'nun (STK) belirli bir kampanyası için, kurumun misyonunu ve kampanyanın amacını yansıtan, duygusal ve ilham verici bir tanıtım görseli oluşturmak.",
   "style": {
-    "art_style": "Doğa fotoğrafçılığı (Nature photography), duygusal",
-    "color_palette": ["yeşil", "kahverengi", "sarı"],
-    "lighting": "Güneşli gün ışığı, sıcak ve yumuşak"
+    "art_style": "Duygusal ve otantik yaşam tarzı fotoğrafçılığı (Emotional and authentic lifestyle photography), sinematik",
+    "color_palette": [
+      "STK'nın logo renkleri ile uyumlu sıcak ve doğal tonlar",
+      "Umut ve pozitifliği simgeleyen aydınlık renkler (sarı, açık mavi)",
+      "Doğal yeşil ve toprak tonları"
+    ],
+    "lighting": "Güneşli bir günün sıcak ve yumuşak ışığı (altın saatler - golden hour)"
   },
   "composition": {
-    "main_subject": "Genç gönüllülerin fidan dikmesi",
-    "background": "Yeşermiş bir orman",
-    "extra_elements": ["doğa sevgisi", "toplumsal fayda hissi"]
+    "main_subject": "[Kampanya Aktivitesi]'ni (örneğin, fidan diken, bir hayvana bakan, çocuklara kitap okuyan) gerçekleştiren, farklı yaş gruplarından samimi ve mutlu gönüllüler.",
+    "background": "[Kampanya Mekanı]': Kampanyanın ruhuna uygun (yeşeren bir orman, temizlenmiş bir sahil, aydınlık bir sınıf, barınak) doğal ve aydınlık bir ortam.",
+    "extra_elements": [
+      "Gönüllülerin giydiği tişörtlerde veya arka plandaki bir bayrakta doğal bir şekilde yer alan STK logosu",
+      "İşbirliği, dayanışma ve mutluluk anları",
+      "Kampanyanın sonucunu simgeleyen bir unsur (dikilmiş fidanlar, mutlu bir hayvan vb.)"
+    ]
   },
-  "mood": "Umut verici, ilham verici, pozitif",
+  "mood": "Umut verici, ilham verici, pozitif, samimi ve dayanışma içinde",
   "camera_settings": {
-    "angle": "Orta açı, gönüllüleri ve arka planı gösteren",
-    "lens": "35mm veya 50mm"
+    "angle": "Orta açı (Medium shot), gönüllülerin etkileşimini ve çevreyi birlikte yakalayan bir açı.",
+    "lens": "50mm, doğal bir insan gözü perspektifi ve hafif alan derinliği için."
   },
   "adaptation_rules": {
-    "replaceable_elements": ["gönüllü grubu", "proje türü (hayvanları koruma, temizlik vb.)", "mekan"],
-    "fixed_elements": ["umut ve toplumsal fayda teması", "doğal ve sıcak atmosfer"]
+    "replaceable_elements": [
+      "STK adı ve logosu",
+      "kampanya aktivitesi ve konusu (ağaç dikme, hayvan bakımı, eğitim, sahil temizliği vb.)",
+      "kampanya mekanı",
+      "gönüllülerin demografisi (genç, yaşlı, karma)"
+    ],
+    "fixed_elements": [
+      "umut ve toplumsal fayda teması",
+      "duygusal ve otantik atmosfer",
+      "STK markasının (logo) doğal entegrasyonu",
+      "pozitif ve ilham verici ruh hali"
+    ]
   },
-  "prompt_template": "Create a hopeful and inspiring visual for a tree planting campaign, showing young volunteers planting saplings, with a green forest and sunlight in the background, conveying a sense of nature love and social good."
+  "prompt_template": "[LOGO_GÖRSELİ] Create a hopeful, inspiring, and authentic lifestyle photo for a campaign by the NGO '[STK Adı]'. The visual should depict a diverse group of happy volunteers actively engaged in '[Kampanya Aktivitesi]' within a beautiful '[Kampanya Mekanı]'. The volunteers should be wearing t-shirts or be near a banner that naturally and prominently features the provided NGO logo. The scene must be filled with warm, soft sunlight (golden hour), creating an emotional and positive mood that emphasizes solidarity, hope, and social good. Shot with a 50mm lens from a medium angle to capture both the volunteers' interactions and their environment."
 }
 ```
 
 -----
 
 <a id="77"></a>
-**77. Sanat Terapisi - İlham Verici Görsel**
+**77. İki kişinin fotoğrafını birleştirme**
 
-Sanat terapisi seanslarında kullanılmak üzere, huzur ve içsel dengeyi temsil eden soyut bir görsel oluşturulması isteniyor.
+
+
+<img width="641" height="430" alt="image" src="https://github.com/user-attachments/assets/efee1c36-9a3e-4205-95af-979808aaae04" />
+
 
 ```json
 {
-  "concept": "Sanat terapisinin huzur ve içsel denge temasını yansıtan soyut bir görsel.",
-  "style": {
-    "art_style": "Soyut sanat (Abstract art), sakinleştirici",
-    "color_palette": ["pastel mavi", "yeşil", "lavanta"],
-    "lighting": "Yumuşak ve hafif bir parıltı"
-  },
-  "composition": {
-    "main_subject": "Akışkan renk geçişleri ve organik formlar",
-    "background": "Soyut bir zemin",
-    "extra_elements": []
-  },
-  "mood": "Huzurlu, sakinleştirici, içsel denge",
-  "camera_settings": {
-    "angle": "Soyut, serbest formda",
-    "lens": "Genel amaçlı lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["duygu/tema (endişe, neşe vb.)", "renk paleti", "formlar"],
-    "fixed_elements": ["soyut sanat tarzı", "huzur ve rahatlama hissi"]
-  },
-  "prompt_template": "Create an abstract and calming visual for art therapy sessions, representing peace and inner balance, with soft color gradients of pastel blue, green, and lavender, fluid forms, and a gentle glow."
+
+  "concept": "Yüklenen iki ayrı fotoğraftaki kişileri, tek bir Polaroid çerçevesi içinde, karanlık bir odada flaşla çekilmiş gibi görünen, anlık ve doğal bir sahnede birleştirmek.",
+
+  "style": {
+
+    "art_style": "Polaroid fotoğraf estetiği, anlık çekim (snapshot), lo-fi, grenli (grainy), hafif bulanık (slightly blurred)",
+
+    "color_palette": [
+
+      "Flaş patlamasından dolayı soluk ve doygunluğu düşük renkler",
+
+      "Koyu ve keskin gölgeler",
+
+      "Hafif sarımsı veya mavimsi Polaroid renk tonu"
+
+    ],
+
+    "lighting": "Doğrudan ve sert flaş aydınlatması (direct on-camera flash), kırmızı göz etkisi potansiyeli, sahnenin geri kalanında keskin gölgeler ve karanlık alanlar."
+
+  },
+
+  "composition": {
+
+    "main_subject": "1. Kişi ve 2. Kişi yan yana duruyor. 1. Kişi sağ elini 2. Kişinin omzuna atmış. Her ikisi de doğrudan kameraya bakıyor. Yüzleri kesinlikle değiştirilmemiş ve stilize edilmemiş halde.",
+
+    "background": "Arka planda, flaş ışığıyla aydınlatılmış basit, beyaz perdeler.",
+
+    "extra_elements": [
+
+      "Görseli çevreleyen Polaroid fotoğraf çerçevesi",
+
+      "Hafif hareket bulanıklığı (slight motion blur)",
+
+      "Flaş yansımasından kaynaklanan parlak noktalar (specular highlights)"
+
+    ]
+
+  },
+
+  "mood": "Nostaljik, samimi, anlık, filtresiz, doğal",
+
+  "camera_settings": {
+
+    "angle": "Göz hizası, doğrudan karşıdan (eye-level, straight-on shot)",
+
+    "lens": "Polaroid veya eski bir kompakt makine lensi (yaklaşık 35mm eşdeğeri)."
+
+  },
+
+  "adaptation_rules": {
+
+    "replaceable_elements": [
+
+      "kaynak kişi fotoğrafları",
+
+      "arka plan detayı (perde yerine duvar vb.)",
+
+      "poz (elini omzuna atmak yerine sarılmak vb.)"
+
+    ],
+
+    "fixed_elements": [
+
+      "yüzlerin birebir aynı kalması (no stylization)",
+
+      "Polaroid estetiği",
+
+      "karanlık odada sert flaş aydınlatması",
+
+      "anlık çekim hissi",
+
+      "tek bir karede birleştirme"
+
+    ]
+
+  },
+
+  "prompt_template": "[1._KİŞİ_FOTO_URL] [2._KİŞİ_FOTO_URL] Create a single Polaroid-style photograph. The final image should look like a candid, lo-fi snapshot taken in a dark room with a direct on-camera flash. The lighting must be harsh, creating sharp shadows and washing out some colors. The scene should be slightly blurry and grainy. **Crucially, use the exact faces from the two provided images without any artistic stylization or alteration.** In the photo, Person 1 and Person 2 are standing side-by-side, looking directly at the camera. Person 1 has their hand on Person 2's shoulder. The background is simple white curtains illuminated by the flash. The overall mood is nostalgic, natural, and unfiltered."
+
 }
 ```
 
@@ -3200,6 +3386,9 @@ Sanat terapisi seanslarında kullanılmak üzere, huzur ve içsel dengeyi temsil
 **78. Oyunlaştırma - Uygulama Görseli**
 
 Bir dil öğrenme uygulamasının oyunlaştırılmış arayüzü için eğlenceli bir görsel oluşturulması isteniyor.
+
+<img width="615" height="310" alt="image" src="https://github.com/user-attachments/assets/6b53fa12-b834-461b-9139-5bd237b77de6" />
+
 
 ```json
 {
@@ -3234,6 +3423,9 @@ Bir dil öğrenme uygulamasının oyunlaştırılmış arayüzü için eğlencel
 
 Bir online kodlama kursunun, başarıyı ve kariyer gelişimini vurgulayan bir tanıtım görseli oluşturulması hedefleniyor.
 
+<img width="725" height="193" alt="image" src="https://github.com/user-attachments/assets/6f69c84a-289a-486f-9a0f-937aac4314db" />
+
+
 ```json
 {
   "concept": "Bir e-öğrenme kursunun kariyer ve başarı fırsatlarını vurgulayan bir görseli.",
@@ -3267,29 +3459,45 @@ Bir online kodlama kursunun, başarıyı ve kariyer gelişimini vurgulayan bir t
 
 Bir serbest yazarın, yaratıcılığını ve profesyonelliğini vurgulayan bir kişisel marka görseli oluşturulması isteniyor.
 
+<img width="820" height="531" alt="image" src="https://github.com/user-attachments/assets/9825dca4-8171-4bda-ac51-e8e61c04a10f" />
+
+
 ```json
 {
-  "concept": "Bir kişinin mesleğini ve kişisel markasını yansıtan bir görsel.",
+  "concept": "Yüklenen yazarın edebi tarzını, kişisel markasını ve eserlerinin atmosferini yansıtan, ilham verici ve düşündürücü bir görsel.",
   "style": {
-    "art_style": "Yaşam tarzı fotoğrafçılığı (Lifestyle photography), entelektüel",
-    "color_palette": ["doğal tonlar", "kahverengi", "bej"],
-    "lighting": "Doğal ve sıcak ışıklandırma"
+    "art_style": "Sinematik yaşam tarzı fotoğrafçılığı (Cinematic lifestyle photography) veya sanatsal portre fotoğrafçılığı, eserlerinin temasına uygun estetik",
+    "color_palette": ["yazarın kitap kapaklarındaki ana renkler veya eserlerinin ruh haline uygun tonlar (örneğin, gotik bir yazar için koyu tonlar, romantik bir yazar için pastel tonlar)", "doğal ve dengeli ışıklandırma"],
+    "lighting": "Dramatik ve atmosferik ışıklandırma (gölge ve ışık kontrastları) veya yumuşak, davetkar doğal ışıklandırma (yazarın tarzına göre)"
   },
   "composition": {
-    "main_subject": "Kalem ve defterle oturan bir serbest yazar",
-    "background": "İlham verici bir kütüphane veya kafe ortamı",
-    "extra_elements": []
+    "main_subject": "Yazarın kendisi, eserlerinin temasına uygun bir ortamda. Yazar, yazma eylemi içinde (elinde kalem, klavye başında) veya düşünceli bir pozda olabilir. Göz teması, yazarın kişiliğine ve markasına göre değişebilir.",
+    "background": "Yazarın eserlerini çağrıştıran veya ilham aldığı bir mekan: (örneğin, vintage kitaplarla dolu bir çalışma odası, gizemli bir orman manzarası, tarihi bir şehir sokağı, minimalist ve modern bir kafe). Arka planda yazarın bazı kitapları (kapakları görülecek şekilde) veya eserlerinden alıntılar, stilize edilmiş bir şekilde yer alabilir.",
+    "extra_elements": [
+      "yazarın imzası veya özel bir sembolü (varsa), arka planda veya bir defterde belirginleşmiş",
+      "eserlerinin ana temalarını simgeleyen nesneler (örneğin, eski bir daktilo, pusula, tüy kalem, antik harita, belirli bir çiçeğin resmi)",
+      "ortama uygun, yazarın kişiliğini yansıtan detaylar (örneğin, bir fincan çay/kahve, gözlük, şal, yazarın el yazısıyla notlar)"
+    ]
   },
-  "mood": "Yaratıcı, entelektüel, profesyonel",
+  "mood": "Yazarın edebi tarzına uygun (örneğin, gizemli, romantik, düşündürücü, entelektüel, neşeli, hüzünlü), otantik, ilham verici",
   "camera_settings": {
-    "angle": "Portre veya ortamı da içine alan orta çekim",
-    "lens": "50mm veya 85mm"
+    "angle": "Yazarın kişiliğini ve markasını en iyi yansıtan açı. Bu, samimi bir yakın çekim, ortamı da gösteren geniş bir kompozisyon veya dinamik bir perspektif olabilir.",
+    "lens": "Portre lensi (50mm, 85mm veya 135mm) veya daha geniş açılı bir lens (35mm) ile ortamın hikaye anlatımına dahil edilmesi"
   },
   "adaptation_rules": {
-    "replaceable_elements": ["meslek", "mekan", "nesneler (bilgisayar, boya vb.)", "renk paleti"],
-    "fixed_elements": ["kişisel markalaşma teması", "yaratıcılık ve profesyonellik vurgusu"]
+    "replaceable_elements": [
+      "yazarın adı ve eserleri",
+      "mekan ve arka plan detayları",
+      "ekstra nesneler ve semboller",
+      "renk paleti ve ışıklandırma tarzı (yazarın marka kimliğine göre)"
+    ],
+    "fixed_elements": [
+      "yazarın kişisel markasının vurgulanması",
+      "edebi ve ilham verici atmosfer",
+      "otantiklik ve yaratıcılık hissi"
+    ]
   },
-  "prompt_template": "Create a conceptual or portrait visual reflecting the personal brand of a freelance writer, showing a thoughtful and professional writer sitting with a pen and notebook in an inspiring library or cafe setting, conveying a sense of creativity and intellectual depth."
+  "prompt_template": "Create an inspiring and authentic cinematic portrait of the writer [Yazar Adı], reflecting their unique literary style and personal brand. The writer is depicted in a [Mekan Tanımı, örn: vintage study filled with old books, a mysterious forest clearing, a vibrant cafe], engaged in a thoughtful or creative pose. The background subtly incorporates elements from their books, such as [Kitap Kapakları veya Temaları Çağrıştıran Detaylar, örn: stylized book covers, thematic symbols, handwritten quotes]. The lighting and color palette are carefully chosen to match the mood of their works, emphasizing their intellectual depth and creative spirit."
 }
 ```
 
@@ -7142,6 +7350,54 @@ Bu senaryo, bir ürün için çevre dostu ve sürdürülebilir bir ambalaj tasar
       
 
 ----
+<a id="168"></a>
+### 168-) yüklenen bir fotoğrafı referans alarak o kişiyi karikatür figürüne dönüştürecek
+
+<img width="581" height="295" alt="image" src="https://github.com/user-attachments/assets/82592fcf-ccad-44f9-a5da-ba1a06144a0f" />
 
 
+```json
+{
+  "concept": "Yüklenen bir fotoğraftaki kişinin yüzünü referans alarak, o kişiyi hiper-detaylı, büyük kafalı (bobblehead) bir 3D karikatür figürüne dönüştürmek.",
+  "style": {
+    "art_style": "Hiper-detaylı 3D dijital render, kil modelleme (clay sculpting) estetiği",
+    "color_palette": [
+      "monokrom gri",
+      "mat yüzeyler",
+      "hafif metalik yansımalar"
+    ],
+    "lighting": "Dramatik stüdyo aydınlatması, figürün hatlarını ortaya çıkaran anahtar ve dolgu ışığı (key and fill light)"
+  },
+  "composition": {
+    "main_subject": "Referans fotoğraftaki kişinin yüzüne sahip, başında büyük kulaklıklar olan, kot pantolon ve tişört giyen, elleri ceplerinde duran bir figür.",
+    "background": "Düz, odak noktasını dağıtmayan, minimalist ve tek renkli stüdyo arka planı.",
+    "extra_elements": [
+      "kemer tokası detayı",
+      "kol saati",
+      "kot pantolondaki kırışıklıklar ve doku"
+    ]
+  },
+  "mood": "Kendine güvenen, rahat, modern ve teknolojiyle ilgili (youtuber/streamer havası)",
+  "camera_settings": {
+    "angle": "Göz hizasından tam boy çekim (full body shot)",
+    "lens": "85mm portre lensi, alan derinliği (bokeh) etkisi"
+  },
+  "adaptation_rules": {
+    "replaceable_elements": [
+      "kaynak fotoğraf (kişinin yüzü)",
+      "figürün cinsiyeti ve vücut tipi",
+      "tişörtün rengi ve üzerindeki yazı",
+      "arka plan rengi",
+      "renk paleti (monokrom yerine renkli olabilir)"
+    ],
+    "fixed_elements": [
+      "büyük kafa (bobblehead) oranı",
+      "kulaklık aksesuarı",
+      "rahat ve ayakta duruş pozu",
+      "3D render stili",
+      "stüdyo aydınlatması"
+    ]
+  },
+  "prompt_template": "[FOTOĞRAF_URL'Sİ VEYA GÖRSEL GİRDİSİ] Use the face from the provided image to create a hyper-detailed 3D digital render of a personalized bobblehead caricature figure. The figure should be standing with hands in pockets, wearing over-ear headphones, a t-shirt with '[yazı]' text, and blue jeans. Place the character against a minimalist, solid [arka plan rengi] studio background. The style must be a realistic clay sculpture, lit with dramatic studio lighting. This is a full-body shot captured with an 85mm portrait lens, creating a confident and modern mood."
+}
 ```
