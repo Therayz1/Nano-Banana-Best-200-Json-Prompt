@@ -371,6 +371,10 @@
 *   [167. Çevre Ürün Tasarımı](#167)
 *   [168. yüklenen bir fotoğrafı referans alarak o kişiyi karikatür figürüne dönüştürecek](#168)
 *   [169. yüklenen bir fotoğrafı ink splash / paint splatter dönüştürsünk](#169)
+*   [170. yüklediğin yemek görsellerini birleştirip tek bir yemek gibi göstermek](#170)
+*   [171. yüklediğin portreyi, “rooftop/blue-hour sinematik tarzına” sabit şekilde çevirebilirsin.](#171)
+
+*   yüklediğin portreyi, “rooftop/blue-hour sinematik tarzına” sabit şekilde çevirebilirsin.
 
 ***
 
@@ -6527,6 +6531,9 @@ Bu senaryo, bir görüntüyü orijinal stilini ve içeriğini koruyarak dışa d
 
 Bu senaryo, eski bir haritadaki bir bölgeyi, haritanın stilini ve dönemin mimarisini yansıtan antik bir şehir veya köy sahnesine dönüştürür. Kullanıcının eski bir harita görüntüsü yüklemesi gerekir.
 
+<img width="802" height="279" alt="image" src="https://github.com/user-attachments/assets/3be18c81-e8a7-4cb2-b7e9-add55c33a576" />
+
+
 ```json
 {
   "concept": "Eski bir haritadaki bir bölgeyi, antik bir şehir veya köy sahnesine dönüştürme.",
@@ -6573,6 +6580,9 @@ Bu senaryo, eski bir haritadaki bir bölgeyi, haritanın stilini ve dönemin mim
 ### 151-) Moda Giyim Kolajı
 
 Bu senaryo, çeşitli giyim eşyalarının fotoğraflarını kullanarak modern ve şık bir moda kolajı oluşturur. Kullanıcının çeşitli giyim eşyası fotoğrafları yüklemesi gerekir.
+
+<img width="735" height="399" alt="image" src="https://github.com/user-attachments/assets/ce401dba-5f6c-4097-a290-bfc084aebe1e" />
+
 
 ```json
 {
@@ -6621,6 +6631,9 @@ Bu senaryo, çeşitli giyim eşyalarının fotoğraflarını kullanarak modern v
 
 Bu senaryo, bir ürün fotoğrafını, zarif ve sevimli bir estetiğe sahip olacak şekilde geliştirir. Kullanıcının ürünün fotoğrafını yüklemesi gerekir.
 
+<img width="765" height="360" alt="image" src="https://github.com/user-attachments/assets/ffe3fc59-e2c9-47d7-b154-873ea1c2847a" />
+
+
 ```json
 {
   "concept": "Bir ürün fotoğrafını, zarif ve sevimli bir estetiğe sahip olacak şekilde geliştirme.",
@@ -6666,6 +6679,9 @@ Bu senaryo, bir ürün fotoğrafını, zarif ve sevimli bir estetiğe sahip olac
 ### 153-) Anime Heykellerini Gerçeğe Dönüştürme
 
 Bu senaryo, bir anime heykelinin fotoğrafını, gerçek hayatta bir heykel olarak yeniden oluşturur. Kullanıcının anime heykelinin fotoğrafını yüklemesi gerekir.
+
+<img width="588" height="384" alt="image" src="https://github.com/user-attachments/assets/32772c52-35ce-4771-a931-13a779bbf922" />
+
 
 ```json
 {
@@ -6713,6 +6729,9 @@ Bu senaryo, bir anime heykelinin fotoğrafını, gerçek hayatta bir heykel olar
 
 Bu senaryo, bir araba fotoğrafını, bir anime karakteri temalı Itasha arabasına dönüştürür. Kullanıcının araba fotoğrafını ve uygulanacak anime/manga karakteri görselini yüklemesi gerekir.
 
+<img width="807" height="409" alt="image" src="https://github.com/user-attachments/assets/6cc6e85d-f0ae-465f-96fb-bf9463394fdd" />
+
+
 ```json
 {
   "concept": "Bir araba fotoğrafını, anime karakteri temalı Itasha arabasına dönüştürme.",
@@ -6758,6 +6777,9 @@ Bu senaryo, bir araba fotoğrafını, bir anime karakteri temalı Itasha arabas�
 ### 155-) Çizgi Roman Kompozisyonu
 
 Bu senaryo, bir metin veya eskizi, dinamik ve etkileyici bir çizgi roman paneline dönüştürür. Kullanıcının çizgi roman paneli için metin veya eskiz yüklemesi gerekir.
+
+<img width="807" height="221" alt="image" src="https://github.com/user-attachments/assets/97a9c624-91eb-48ae-9773-061cc4d10a40" />
+
 
 ```json
 {
@@ -6807,6 +6829,9 @@ Bu senaryo, bir metin veya eskizi, dinamik ve etkileyici bir çizgi roman paneli
 
 Bu senaryo, bir fotoğrafı veya illüstrasyonu, Japon çizgi roman (manga) tarzına dönüştürür. Kullanıcının dönüştürülmek istenen fotoğraf veya illüstrasyonu yüklemesi gerekir.
 
+<img width="663" height="378" alt="image" src="https://github.com/user-attachments/assets/4bc46f66-efa8-4831-a688-992efc95b3e2" />
+
+
 ```json
 {
   "concept": "Bir fotoğrafı veya illüstrasyonu, Japon çizgi roman (manga) tarzına dönüştürme.",
@@ -6855,6 +6880,9 @@ Bu senaryo, bir fotoğrafı veya illüstrasyonu, Japon çizgi roman (manga) tarz
 
 Bu senaryo, bir nesnenin veya yapının izometrik bir holografik projeksiyon diyagramını oluşturur. Kullanıcının dönüştürülmek istenen nesne veya yapının görselini yüklemesi gerekir.
 
+<img width="725" height="228" alt="image" src="https://github.com/user-attachments/assets/0abf0575-8c81-42e8-ad5c-241e7750b9fa" />
+
+
 ```json
 {
   "concept": "Bir nesnenin veya yapının, izometrik holografik bir diyagramını oluşturma.",
@@ -6901,6 +6929,9 @@ Bu senaryo, bir nesnenin veya yapının izometrik bir holografik projeksiyon diy
 ### 158-) Minecraft Tarzı Sahne Oluşturma
 
 Bu senaryo, bir sahneyi, Minecraft tarzında, bloklu ve pikselli bir görünüme dönüştürür. Kullanıcının dönüştürülmek istenen sahnenin görselini veya açıklamasını yüklemesi gerekir.
+
+<img width="627" height="380" alt="image" src="https://github.com/user-attachments/assets/a240a87f-882f-40ca-a864-3eee16e574e0" />
+
 
 ```json
 {
@@ -6949,6 +6980,9 @@ Bu senaryo, bir sahneyi, Minecraft tarzında, bloklu ve pikselli bir görünüme
 
 Bu senaryo, bir 3D modele veya nesneye, verilen bir malzeme dokusunu gerçekçi bir şekilde uygular. Kullanıcının 3D modelin veya nesnenin görselini ve uygulanacak malzeme dokusunu yüklemesi gerekir.
 
+<img width="789" height="197" alt="image" src="https://github.com/user-attachments/assets/8949abbd-aaf4-4adc-ade6-7b10313be493" />
+
+
 ```json
 {
   "concept": "Bir 3D modele veya nesneye, verilen bir malzeme dokusunu gerçekçi bir şekilde atama.",
@@ -6993,47 +7027,52 @@ Bu senaryo, bir 3D modele veya nesneye, verilen bir malzeme dokusunu gerçekçi 
 <a id="160"></a>
 ### 160-) Kat Planı 3D Render
 
+<img width="752" height="283" alt="image" src="https://github.com/user-attachments/assets/f56645ad-9f1e-4abb-be89-7580981f95f7" />
+
+
 Bu senaryo, bir kat planını mobilyalar, aydınlatma ve dokular içeren gerçekçi bir 3D iç mekan renderına dönüştürür. Kullanıcının kat planının görselini yüklemesi gerekir.
 
 ```json
 {
-  "concept": "Bir kat planını, mobilyalar ve dekorasyonla birlikte gerçekçi bir 3D iç mekan renderına dönüştürme.",
+  "concept": "Yüklenen kat planını, odaların konumunu ve işlevini koruyarak fotorealistik bir 3D iç mekan renderına dönüştür.",
   "style": {
     "art_style": "İç Mimari Render, Fotorealistik, Modern",
     "color_palette": [
-      "Mobilyaların ve duvarların renkleri",
-      "doğal ve nötr tonlar"
+      "Doğal ve nötr tonlar",
+      "Ahşap, beyaz, gri uyumu"
     ],
-    "lighting": "Gerçekçi aydınlatma, pencerelerden gelen doğal ışık."
+    "lighting": "Pencerelerden gelen doğal ışık, gerçekçi gölgeler"
   },
   "composition": {
-    "main_subject": "[Yüklenecek kat planı]'nın 3D iç mekan versiyonu.",
-    "background": "İç mekanın kendisi.",
+    "main_subject": "[Kat planındaki odalar] gerçekteki yerleşimiyle 3D iç mekanda yeniden inşa edilmiş hali",
+    "background": "Planın kendisine sadık, gerçekçi duvar/kapı/pencere konumları",
     "extra_elements": [
-      "Mobilyalar",
-      "aydınlatma armatürleri",
-      "duvar ve zemin dokuları"
+      "Her odada plan etiketine uygun mobilya (ör: Bedroom → yatak, Living Room → kanepe, Kitchen → mutfak dolapları)",
+      "Modern dekorasyon",
+      "Duvar ve zemin dokuları"
     ]
   },
   "mood": "Konforlu, modern, yaşanabilir",
   "camera_settings": {
-    "angle": "Odanın genelini gösteren geniş açılı iç mekan çekimi.",
-    "lens": "Geniş açı lens."
+    "angle": "Geniş açılı iç mekan perspektifi",
+    "lens": "20-24mm geniş açı lens",
+    "framing": "Her odanın kendi içinden çekilmiş renderları"
   },
   "adaptation_rules": {
     "replaceable_elements": [
-      "kat planı",
-      "dekorasyon stili (modern, rustik, minimalist)",
-      "ışıklandırma",
-      "renk paleti"
+      "Mobilya stili (modern, minimalist vb.)",
+      "Renk paleti",
+      "Işıklandırma"
     ],
     "fixed_elements": [
-      "kat planından 3D render oluşturma",
-      "gerçekçi iç mekan estetiği"
+      "Kat planındaki odaların yerleşimi",
+      "Duvar, kapı ve pencere konumları",
+      "Her odada plan etiketine uygun fonksiyon"
     ]
   },
-  "prompt_template": "Bu [YÜKLENECEK KAT PLANI]'nı, mobilyalar, aydınlatma ve dokular içeren gerçekçi bir 3D iç mekan renderına dönüştür. [1069] Mekanın atmosferini ve tasarımını vurgula. [1070] Modern ve fotorealistik bir mimari render tarzında bir sonuç elde et."
+  "prompt_template": "Bu [YÜKLENECEK KAT PLANI]'nı, odaların işlevini koruyarak modern fotorealistik bir 3D iç mekan renderına dönüştür. [1069] Living Room, Kitchen, Bedroom, Bathroom gibi etiketlenmiş alanlara uygun mobilya ve dekorasyon yerleştir. [1070] Gerçekçi ışık ve malzemelerle planın sadık bir 3D görselini oluştur."
 }
+
 ```
 
 -----
@@ -7042,6 +7081,9 @@ Bu senaryo, bir kat planını mobilyalar, aydınlatma ve dokular içeren gerçek
 ### 161-) Kamera Parametrelerini Sıfırlama
 
 Bu senaryo, bir fotoğrafın kamera parametrelerini (odak uzaklığı, diyafram, enstantane hızı) varsayılan ayarlara sıfırlar ve orijinal kompozisyonu korur. Kullanıcının dönüştürülmek istenen fotoğrafı yüklemesi gerekir.
+
+<img width="648" height="296" alt="image" src="https://github.com/user-attachments/assets/19c46cf1-31b5-470d-a825-e569e93a4967" />
+
 
 ```json
 {
@@ -7080,6 +7122,9 @@ Bu senaryo, bir fotoğrafın kamera parametrelerini (odak uzaklığı, diyafram,
 
 <a id="162"></a>
 ### 162-) Bu senaryo, bir kişinin portre fotoğrafını, resmi bir kimlik fotoğrafına dönüştürür. Kullanıcının kişinin portre fotoğrafını yüklemesi gerekir.
+
+<img width="525" height="375" alt="image" src="https://github.com/user-attachments/assets/7d42e6bb-94a2-49f7-ae3c-52d62a1e7052" />
+
 
 ```json
 {
@@ -7124,6 +7169,9 @@ Bu senaryo, bir fotoğrafın kamera parametrelerini (odak uzaklığı, diyafram,
 ### 163-) Sahne A6 Katlanır Kart
 
 Bu senaryo, bir sahneyi, A6 boyutunda katlanır bir kartın ön yüzüne uygun bir tasarıma dönüştürür. Kullanıcının sahnenin görselini veya açıklamasını yüklemesi gerekir.
+
+<img width="698" height="194" alt="image" src="https://github.com/user-attachments/assets/094a9d88-c6af-4006-bc4a-ded5f2ff2bfe" />
+
 
 ```json
 {
@@ -7171,6 +7219,9 @@ Bu senaryo, bir sahneyi, A6 boyutunda katlanır bir kartın ön yüzüne uygun b
 
 Bu senaryo, bir satranç tahtası veya satranç taşlarının görüntüsünü modern ve minimalist bir tasarıma dönüştürür. Kullanıcının satranç tahtası veya taşlarının görselini yüklemesi gerekir.
 
+<img width="579" height="267" alt="image" src="https://github.com/user-attachments/assets/ad57f4c9-9927-4340-ba91-83765ca56e72" />
+
+
 ```json
 {
   "concept": "Bir satranç tahtası veya taşlarını, modern ve minimalist bir tasarıma dönüştürme.",
@@ -7215,6 +7266,9 @@ Bu senaryo, bir satranç tahtası veya satranç taşlarının görüntüsünü m
 ### 165-) Bölünmüş Karşılaştırma Stili Fotoğraf
 
 Bu senaryo, bir fotoğrafın orijinal ve düzenlenmiş versiyonlarını yan yana, bölünmüş bir karşılaştırma stiliyle gösterir. Kullanıcının fotoğrafın orijinal ve düzenlenmiş versiyonlarını yüklemesi gerekir.
+
+<img width="824" height="330" alt="image" src="https://github.com/user-attachments/assets/07e2ce36-cb77-4233-a0fc-ba16bb3461e0" />
+
 
 ```json
 {
@@ -7261,6 +7315,9 @@ Bu senaryo, bir fotoğrafın orijinal ve düzenlenmiş versiyonlarını yan yana
 
 Bu senaryo, bir mücevher parçasının eskizini veya açıklamasını, detaylı ve parlak bir 3D renderına dönüştürür. Kullanıcının mücevher parçasının eskizini veya açıklamasını yüklemesi gerekir.
 
+<img width="602" height="301" alt="image" src="https://github.com/user-attachments/assets/3ab50ac1-04d2-4e44-95cb-d8d86d2c787e" />
+
+
 ```json
 {
   "concept": "Bir mücevher eskizini veya açıklamasını, detaylı ve parlak bir 3D renderına dönüştürme.",
@@ -7306,6 +7363,9 @@ Bu senaryo, bir mücevher parçasının eskizini veya açıklamasını, detaylı
 ### 167-) Çevre Ürün Tasarımı
 
 Bu senaryo, bir ürün için çevre dostu ve sürdürülebilir bir ambalaj tasarımı oluşturur. Kullanıcının ürünün görüntüsünü veya açıklamasını yüklemesi gerekir.
+
+<img width="633" height="314" alt="image" src="https://github.com/user-attachments/assets/a6b0d4d3-8544-44dc-ba03-a616d3e4c0b7" />
+
 
 ```json
 {
@@ -7486,3 +7546,65 @@ Bu senaryo, bir ürün için çevre dostu ve sürdürülebilir bir ambalaj tasar
   }
 }
 ```
+
+----
+
+<a id="171"></a>
+### 171-) yüklediğin portreyi, “rooftop/blue-hour sinematik tarzına” sabit şekilde çevirebilirsin.
+
+<img width="474" height="348" alt="image" src="https://github.com/user-attachments/assets/7c688b30-f4a6-4fcd-8fef-6d966f4ddfe9" />
+
+
+```json
+{
+  "inputs": {
+    "content_image": "UPLOAD_A_CONTENT",
+    "style_image": "UPLOAD_B_STYLE"
+  },
+  "task": "style_transfer_cinematic",
+  "preserve": {
+    "identity": true,
+    "face_features": true
+  },
+  "target_style_profile": {
+    "name": "Blue-Hour Rooftop Film Look",
+    "palette": {
+      "dominant": ["teal", "cyan"],
+      "accents": ["warm sodium orange"],
+      "neutrals": ["soft blacks", "mist gray"]
+    },
+    "lighting": {
+      "ambient": "moist blue-hour sky",
+      "rim": "warm door light behind subject",
+      "practicals": "city neon reflecting in puddles"
+    },
+    "camera_look": {
+      "lens_mm": 35,
+      "framing": "medium full-body or waist-up (not tight portrait)",
+      "angle": "slightly low to include fence and sky",
+      "focus": "sharp on face, soft background",
+      "grain": "film grain level 0.1–0.15",
+      "curve": "low-contrast cinematic, teal-orange grade"
+    },
+    "background": {
+      "scene": "rooftop with wet concrete and chain-link fence",
+      "details": [
+        "chalk writing 'i miss you' with smiley",
+        "reflections in puddles",
+        "thin mist in distance"
+      ]
+    },
+    "mood": "nostalgia, solitude, quiet after rain"
+  },
+  "control_weights": {
+    "content_strength": 0.75,
+    "style_strength": 0.9,
+    "background_replace_strength": 0.8,
+    "face_preservation": 0.95,
+    "film_grade_lock": 0.9
+  },
+  "output": {
+    "resolution": "same_as_input",
+    "format": "png"
+  }
+}
