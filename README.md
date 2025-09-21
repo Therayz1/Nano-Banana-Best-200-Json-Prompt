@@ -6063,6 +6063,9 @@ Bu senaryo, bir karakterin farklı aksiyon pozlarında (örneğin, koşarken, z�
 
 Bu senaryo, bir ürün için modern ve çekici bir ambalaj tasarımı oluşturur. Kullanıcının ürünün görüntüsünü veya açıklamasını yüklemesi gerekir.
 
+<img width="723" height="223" alt="image" src="https://github.com/user-attachments/assets/201b0a27-9874-4f05-ace4-947aff472a15" />
+
+
 ```json
 {
   "concept": "Bir ürün için modern ve çekici bir ambalaj tasarımı oluşturma.",
@@ -6111,6 +6114,9 @@ Bu senaryo, bir ürün için modern ve çekici bir ambalaj tasarımı oluşturur
 
 Bu senaryo, bir görüntüye eski bir film dokusu filtresi ekleyerek renkleri soluklaştırır ve gren efekti verir. Kullanıcının dönüştürülmek istenen görüntüyü yüklemesi gerekir.
 
+<img width="591" height="380" alt="image" src="https://github.com/user-attachments/assets/47036431-40b5-4c36-90b7-feb673ee0bb0" />
+
+
 ```json
 {
   "concept": "Bir görüntüye eski film dokusu filtresi ekleyerek nostaljik bir hava katma.",
@@ -6156,6 +6162,9 @@ Bu senaryo, bir görüntüye eski bir film dokusu filtresi ekleyerek renkleri so
 
 Bu senaryo, bir karakterin yüz şeklini daha keskin çene hatlarına ve belirgin elmacık kemiklerine sahip olacak şekilde değiştirir. Kullanıcının karakterin görselini yüklemesi gerekir.
 
+<img width="737" height="231" alt="image" src="https://github.com/user-attachments/assets/70b3e4db-1b54-4bbd-be18-89f44a5c6623" />
+
+
 ```json
 {
   "concept": "Bir karakterin yüz şeklini, genel görünümünü koruyarak değiştirme.",
@@ -6199,6 +6208,9 @@ Bu senaryo, bir karakterin yüz şeklini daha keskin çene hatlarına ve belirgi
 ### 143-) Işık ve Gölge Kontrolü
 
 Bu senaryo, bir görüntüdeki ışıklandırmayı dramatik bir gün batımı ışığına dönüştürür. Kullanıcının dönüştürülmek istenen görüntüyü yüklemesi gerekir.
+
+<img width="682" height="211" alt="image" src="https://github.com/user-attachments/assets/c63d303f-2bb3-4ba7-8e20-e60adffe8a5e" />
+
 
 ```json
 {
@@ -6246,6 +6258,9 @@ Bu senaryo, bir görüntüdeki ışıklandırmayı dramatik bir gün batımı ı
 
 Bu senaryo, yüklenen bir karakteri, bloklu yapısını ve parçalarının detaylarını gerçekçi bir şekilde yansıtan Lego tarzı bir oyuncak figürüne dönüştürür. Kullanıcının karakterin görselini yüklemesi gerekir.
 
+<img width="616" height="380" alt="image" src="https://github.com/user-attachments/assets/363fc275-c48e-4981-a6cf-12b1f4104e2b" />
+
+
 ```json
 {
   "concept": "Bir karakteri, Lego tarzı bir oyuncak figürüne dönüştürme.",
@@ -6292,6 +6307,9 @@ Bu senaryo, yüklenen bir karakteri, bloklu yapısını ve parçalarının detay
 ### 145-) Gundam Model Figürleri
 
 Bu senaryo, yüklenen bir karakteri, detaylı ve mekanik bir Gundam model figürüne dönüştürür. Kullanıcının karakterin görselini yüklemesi gerekir.
+
+<img width="568" height="380" alt="image" src="https://github.com/user-attachments/assets/966fcbce-cdc1-44aa-af68-0e709cd6dca6" />
+
 
 ```json
 {
@@ -6346,6 +6364,9 @@ Elbette, belgenin geri kalanını 146'dan 167'ye kadar olan kısımlar için ID 
 
 Bu senaryo, bir donanım cihazının sökülmüş bir diyagramını oluşturur, her bir bileşeni ayrı ayrı gösterir ve etiketler. Kullanıcının donanım cihazının görselini yüklemesi gerekir.
 
+<img width="803" height="212" alt="image" src="https://github.com/user-attachments/assets/5a455ec0-21f6-4111-9f1a-7820861b1115" />
+
+
 ```json
 {
   "concept": "Bir donanım cihazının sökülmüş bir diyagramını oluşturma.",
@@ -6394,6 +6415,9 @@ Bu senaryo, bir donanım cihazının sökülmüş bir diyagramını oluşturur, 
 
 Bu senaryo, bir yiyecek fotoğrafına, her bir bileşenin kalori değerini gösteren etiketler ekler. Kullanıcının yiyecek fotoğrafını yüklemesi gerekir.
 
+<img width="764" height="241" alt="image" src="https://github.com/user-attachments/assets/fb303c0b-87aa-4d56-ab96-ae9e931cb530" />
+
+
 ```json
 {
   "concept": "Bir yiyecek fotoğrafına, bileşenlerinin kalori değerlerini gösteren etiketler ekleme.",
@@ -6441,6 +6465,9 @@ Bu senaryo, bir yiyecek fotoğrafına, her bir bileşenin kalori değerini göst
 
 Bu senaryo, bir görüntüden ana nesneyi çıkarır, şeffaf bir arka plana yerleştirir ve üzerine ürün bilgilerini içeren şeffaf bir metin katmanı ekler. Kullanıcının bir görüntü ve üzerine yerleştirilecek metin/bilgi yüklemesi gerekir.
 
+<img width="580" height="243" alt="image" src="https://github.com/user-attachments/assets/d156183b-e08f-450d-973d-3fc6320764b6" />
+
+
 ```json
 {
   "concept": "Bir görüntüden ana nesneyi çıkararak, üzerine şeffaf bir metin katmanı yerleştirme.",
@@ -6487,6 +6514,9 @@ Bu senaryo, bir görüntüden ana nesneyi çıkarır, şeffaf bir arka plana yer
 ### 149-) Görüntü Dış Genişletme ve Onarım
 
 Bu senaryo, bir görüntüyü orijinal stilini ve içeriğini koruyarak dışa doğru genişletir ve eksik kısımlarını doğal bir şekilde tamamlar. Kullanıcının genişletilmek veya onarılmak istenen görüntüyü yüklemesi gerekir.
+
+<img width="771" height="206" alt="image" src="https://github.com/user-attachments/assets/ecdf09c0-b3b0-4c52-b139-16da48780172" />
+
 
 ```json
 {
