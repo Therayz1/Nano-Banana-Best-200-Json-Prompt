@@ -3513,6 +3513,9 @@ Bir serbest yazarın, yaratıcılığını ve profesyonelliğini vurgulayan bir 
 
 "Minimalist Yaşam Tarzı Rehberi" konulu bir blog yazısı için öne çıkan görsel oluşturulması hedefleniyor.
 
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/da962e31-f28a-4ed0-90af-fd979eb9e354" />
+
+
 ```json
 {
   "concept": "Bir blog yazısının konusunu yansıtan, dikkat çekici ve bilgilendirici bir görsel.",
@@ -3545,6 +3548,9 @@ Bir serbest yazarın, yaratıcılığını ve profesyonelliğini vurgulayan bir 
 **82. Podcast ve Sesli İçerik - Kapak Görseli**
 
 "Girişimcilik Hikayeleri" adlı bir podcast serisi için kapak görseli oluşturulması isteniyor.
+
+<img width="783" height="449" alt="image" src="https://github.com/user-attachments/assets/5c930254-a504-4f3e-86a8-d2e58252f0ba" />
+
 
 ```json
 {
@@ -3579,6 +3585,9 @@ Bir serbest yazarın, yaratıcılığını ve profesyonelliğini vurgulayan bir 
 
 "En İyi 5 Seyahat İpuçları" konulu bir YouTube videosu için tıklama oranını artıracak bir küçük resim oluşturulması hedefleniyor.
 
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/6291ed4a-a499-4031-b79c-0f0ea1a31ce7" />
+
+
 ```json
 {
   "concept": "Bir video için tıklama oranını artıracak dikkat çekici ve bilgilendirici bir görsel.",
@@ -3611,6 +3620,9 @@ Bir serbest yazarın, yaratıcılığını ve profesyonelliğini vurgulayan bir 
 **84. Sunum Arka Planları - Arka Plan Görseli**
 
 Bir iş sunumu için, profesyonel ve minimalist bir arka plan görseli oluşturulması isteniyor.
+
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/0d6d1ce9-057a-477e-a158-07de7cd5f51e" />
+
 
 ```json
 {
@@ -3645,6 +3657,9 @@ Bir iş sunumu için, profesyonel ve minimalist bir arka plan görseli oluşturu
 
 "Dijital Pazarlamanın Sırları" adlı bir e-kitap için çekici bir kapak görseli oluşturulması isteniyor.
 
+<img width="768" height="1344" alt="image" src="https://github.com/user-attachments/assets/dfd2d125-65aa-4585-a260-67d5d3c765d5" />
+
+
 ```json
 {
   "concept": "Bir e-kitabın temasını ve içeriğini yansıtan profesyonel bir kapak görseli.",
@@ -3677,6 +3692,12 @@ Bir iş sunumu için, profesyonel ve minimalist bir arka plan görseli oluşturu
 **86. Oyun Karakterleri - Karakter Tasarımı**
 
 Bir fantezi oyunu için, orman ruhu temalı, kadın bir büyücü karakteri tasarlamak isteniyor.
+
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/5e5b7152-5f1b-4454-b544-7759ea8cf518" />
+
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/c66f0991-3e0e-49cb-884a-24dee37e7dc4" />
+
+
 
 ```json
 {
@@ -3711,6 +3732,9 @@ Bir fantezi oyunu için, orman ruhu temalı, kadın bir büyücü karakteri tasa
 
 "Siberpunk Şehir Manzaraları" adlı bir NFT koleksiyonu için benzersiz bir sanat eseri oluşturulması hedefleniyor.
 
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/2d73207a-57ea-46f2-9661-49216a70f9b4" />
+
+
 ```json
 {
   "concept": "NFT koleksiyonu için benzersiz bir dijital sanat eseri yaratma.",
@@ -3743,6 +3767,9 @@ Bir fantezi oyunu için, orman ruhu temalı, kadın bir büyücü karakteri tasa
 **88. Ürün Ambalajı - Ambalaj Tasarımı**
 
 Organik bir çay markasının ambalajı için doğal ve minimalist bir tasarım görseli oluşturulması isteniyor.
+
+<img width="1018" height="344" alt="image" src="https://github.com/user-attachments/assets/d9f5b86b-2ead-41ba-9368-60fbf9fd9b32" />
+
 
 ```json
 {
@@ -3777,6 +3804,12 @@ Organik bir çay markasının ambalajı için doğal ve minimalist bir tasarım 
 
 Bir grafik tasarımcının kartviziti için yaratıcı ve profesyonel bir arka plan görseli oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/06cd13e2-5bd4-4464-a05c-aa10f8c2b3fd" />
+
+
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/1c74f9ec-10b9-4821-8736-a8a7ed24884d" />
+
+
 ```json
 {
   "concept": "Bir kartvizit için yaratıcılığı ve profesyonelliği yansıtan bir arka plan tasarımı.",
@@ -3809,6 +3842,9 @@ Bir grafik tasarımcının kartviziti için yaratıcı ve profesyonel bir arka p
 **90. Davetiye Tasarımı - Davetiye Görseli**
 
 Bir düğün davetiyesi için zarif ve romantik bir görsel oluşturulması isteniyor.
+
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/0f117b33-951d-4aed-8667-dd4ff7528a78" />
+
 
 ```json
 {
@@ -3843,6 +3879,9 @@ Bir düğün davetiyesi için zarif ve romantik bir görsel oluşturulması iste
 
 Bir online kurs tamamlama sertifikası için resmi ve prestijli bir tasarım görseli oluşturulması hedefleniyor.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/49ffb341-e597-45d4-a4a3-ee6dc3395409" />
+
+
 ```json
 {
   "concept": "Bir sertifika veya diploma için prestij ve başarı hissi veren bir tasarım.",
@@ -3876,6 +3915,9 @@ Bir online kurs tamamlama sertifikası için resmi ve prestijli bir tasarım gö
 
 Bir müzik grubu için, rock temalı bir tişört grafik tasarımı oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/19a3439b-27a1-4a32-9fa0-9a60869dc766" />
+
+
 ```json
 {
   "concept": "Bir tişört için yaratıcı ve dikkat çekici bir grafik tasarımı.",
@@ -3898,7 +3940,7 @@ Bir müzik grubu için, rock temalı bir tişört grafik tasarımı oluşturulma
     "replaceable_elements": ["müzik grubu/tarzı (pop, metal vb.)", "semboller", "renk paleti"],
     "fixed_elements": ["grafik tasarım formatı", "isyankar ve enerjik his"]
   },
-  "prompt_template": "Create a creative and eye-catching graphic design for a rock band's T-shirt, featuring a stylized guitar, flames, and skull motifs, conveying a sense of rebellion and energy, in a gothic aesthetic with a color palette of {color_palette}."
+  "prompt_template": "Create a creative and eye-catching graphic design for a rock band's T-shirt "Vibe Music", featuring a stylized guitar, flames, and skull motifs, conveying a sense of rebellion and energy, in a gothic aesthetic with a color palette of {color_palette}."
 }
 ```
 
@@ -3908,6 +3950,9 @@ Bir müzik grubu için, rock temalı bir tişört grafik tasarımı oluşturulma
 **93. Kupa Tasarımı - Tasarım Görseli**
 
 Bir kahve dükkanı için, minimalist ve şık bir kupa tasarımı oluşturulması isteniyor.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2fdf312c-998d-42d3-a260-379a056cb5cc" />
+
 
 ```json
 {
@@ -3942,6 +3987,9 @@ Bir kahve dükkanı için, minimalist ve şık bir kupa tasarımı oluşturulmas
 
 Soyut bir sanat eseri temalı telefon kılıfı tasarımı oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/97443209-4ce1-4349-b412-149a638a2c76" />
+
+
 ```json
 {
   "concept": "Bir telefon kılıfı için yaratıcı ve soyut bir tasarım.",
@@ -3975,30 +4023,25 @@ Soyut bir sanat eseri temalı telefon kılıfı tasarımı oluşturulması isten
 
 Bir dizüstü bilgisayar için, huzurlu bir doğa manzarası temalı duvar kağıdı tasarımı oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad08b973-cd2f-4695-afce-825aa4749ad0" />
+
+
 ```json
 {
-  "concept": "Dijital bir cihaz için huzur ve doğallık temalı bir duvar kağıdı tasarımı.",
-  "style": {
-    "art_style": "Doğa fotoğrafçılığı (Nature photography), pastoral",
-    "color_palette": ["yeşil", "gri", "beyaz"],
-    "lighting": "Sabah güneşinin sisin arasından süzülen ışığı"
-  },
-  "composition": {
-    "main_subject": "Sisli bir orman",
-    "background": "Ağaçlar",
-    "extra_elements": ["sis efekti", "güneş ışınları"]
-  },
-  "mood": "Huzurlu, dingin, estetik",
+"concept": "Dijital bir cihaz için huzur ve doğallık temalı bir duvar kağıdı tasarımı, içinde kodlama yapan bir adam ile.",
+"style": {
+  "art_style": "Doğa fotoğrafçılığı (Nature photography), pastoral",
+  "color_palette": ["yeşil", "gri", "beyaz"],     "lighting": "Sabah güneşinin sisin arasından süzülen ışığı"   },
+  "composition": {     "main_subject": "Sisli bir ormanda masada oturmuş kodlama yapan bir adam",
+  "background": "Ağaçlar",     "extra_elements": ["sis efekti", "güneş ışınları", "bilgisayar veya tablet"]   },
+  "mood": "Huzurlu, dingin, estetik, ilham verici",
   "camera_settings": {
-    "angle": "Manzara formatı, derinlik hissi veren",
-    "lens": "Geniş açı lens"
-  },
-  "adaptation_rules": {
-    "replaceable_elements": ["mekan (plaj, dağ vb.)", "atmosfer (yağmurlu, karlı vb.)", "renk paleti"],
-    "fixed_elements": ["huzur ve doğallık teması", "duvar kağıdı formatı"]
-  },
-  "prompt_template": "Create a peaceful and aesthetic nature landscape wallpaper design for a laptop, showing a foggy forest with morning sunlight filtering through the trees, conveying a sense of serenity and natural beauty."
-}
+    "angle": "Manzara formatı, derinlik hissi veren, adamı ve manzarayı birlikte gösteren",
+    "lens": "Geniş açı lens"   },
+"adaptation_rules": {
+  "replaceable_elements": ["mekan (plaj, dağ vb.)", "atmosfer (yağmurlu, karlı vb.)", "renk paleti"],
+  "fixed_elements": ["huzur ve doğallık teması", "duvar kağıdı formatı", "kodlama yapan adam"]   },
+  "prompt_template": "Create a peaceful and aesthetic nature landscape wallpaper design for a laptop, showing a man sitting at a table coding in a foggy forest with morning sunlight filtering through the trees, conveying a sense of serenity, natural beauty, and inspiration." }
 ```
 
 -----
@@ -4007,6 +4050,9 @@ Bir dizüstü bilgisayar için, huzurlu bir doğa manzarası temalı duvar kağ�
 **96. Emoji ve İkon Tasarımı - Emoji Seti**
 
 Bir mesajlaşma uygulaması için, farklı duyguları ifade eden bir emoji seti oluşturulması hedefleniyor.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d8acf160-543e-4613-807f-d7f8393055b6" />
+
 
 ```json
 {
@@ -4041,6 +4087,9 @@ Bir mesajlaşma uygulaması için, farklı duyguları ifade eden bir emoji seti 
 
 Bir teknoloji startup'ı için, yenilikçiliği ve büyümeyi temsil eden bir logo konsepti oluşturulması isteniyor.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c451ae1e-c47d-44c7-8500-cc982321b6e1" />
+
+
 ```json
 {
   "concept": "Bir şirket veya proje için yenilikçiliği ve büyümeyi yansıtan bir logo konsepti.",
@@ -4063,7 +4112,7 @@ Bir teknoloji startup'ı için, yenilikçiliği ve büyümeyi temsil eden bir lo
     "replaceable_elements": ["şirket türü", "semboller (ampul, dişli vb.)", "renk paleti"],
     "fixed_elements": ["minimalist estetik", "yenilikçilik ve ilerleme hissi"]
   },
-  "prompt_template": "Create a modern and memorable logo concept for a technology startup, integrating an abstract rising arrow or a growth graph, conveying a sense of innovation, progress, and dynamism, in a minimalist aesthetic with a color palette of {color_palette}."
+  "Create a modern and memorable logo concept for the 'TechS' technology startup, integrating an abstract rising arrow or a growth graph with the 'TechS' name, conveying a sense of innovation, progress, and dynamism, in a minimalist aesthetic with a color palette of {color_palette}."
 }
 ```
 
@@ -4073,6 +4122,9 @@ Bir teknoloji startup'ı için, yenilikçiliği ve büyümeyi temsil eden bir lo
 **98. Afiş ve Poster Tasarımı - Afiş Tasarımı**
 
 Bir film festivali için, sanatsal ve dikkat çekici bir afiş tasarımı oluşturulması isteniyor.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/57800b7b-f1ce-4a66-b82e-db2ecba5e3a1" />
+
 
 ```json
 {
@@ -4094,9 +4146,9 @@ Bir film festivali için, sanatsal ve dikkat çekici bir afiş tasarımı oluşt
   },
   "adaptation_rules": {
     "replaceable_elements": ["etkinlik türü (müzik festivali, sanat sergisi vb.)", "mekan", "semboller", "renk paleti"],
-    "fixed_elements": ["sanatsal ve dikkat çekici tarz", "nostalji ve sinema büyüsü hissi"]
+    "fixed_elements": ["sanatsal ve dikkat çekici tarz", "nostalji ve sinema büyüsü hissi", "'Vibe Coding Maker' film başlığı"]
   },
-  "prompt_template": "Create an artistic and eye-catching poster design for a film festival, featuring a cinematic scene with an old film projector, film strips, and glowing lights, conveying a sense of nostalgia and the magic of cinema, with dark tones and gold accents."
+  "Create an artistic and eye-catching poster design for the 'Vibe Coding Maker' film, featuring a cinematic scene with an old film projector, film strips, and glowing lights, conveying a sense of nostalgia and the magic of cinema, with dark tones and gold accents. The film title 'Vibe Coding Maker' should be prominently displayed."
 }
 ```
 
@@ -4106,6 +4158,9 @@ Bir film festivali için, sanatsal ve dikkat çekici bir afiş tasarımı oluşt
 **99. Dijital Sanat Koleksiyonu - Koleksiyon Eseri**
 
 "Rüya Manzaraları" temalı kişisel bir dijital sanat koleksiyonu için eserler oluşturulması hedefleniyor.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/80fac17e-607c-40e4-999c-23612706060a" />
+
 
 ```json
 {
@@ -4140,6 +4195,12 @@ Bir film festivali için, sanatsal ve dikkat çekici bir afiş tasarımı oluşt
 ### 100-) Çizimi 3D Figüre Dönüştürme
 
 Bir illüstrasyon görselindeki karakteri, üretim sürecini de içeren fotorealistik bir 3D figür ürününe dönüştürmek amaçlanır. Bu süreçte, karakterin 2D görseli ve 3D modelleme süreci de ürün fotoğrafına dahil edilir. Kullanıcının karakter illüstrasyonunu referans olarak yüklemesi gerekmektedir.
+
+<img width="860" height="1007" alt="image" src="https://github.com/user-attachments/assets/626a1cc3-cb42-4a2c-a62d-70354f84ac82" />
+
+
+<img width="848" height="1024" alt="image" src="https://github.com/user-attachments/assets/51d3c29b-c36e-4a4f-8e84-52dcc8910fac" />
+
 
 ```json
 {
